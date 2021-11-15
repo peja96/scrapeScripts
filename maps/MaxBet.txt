@@ -1,0 +1,274 @@
+Ball LaMelo - Charlotte
+Bridges M. - Charlotte
+Hayward G. - Charlotte
+Plumlee M. - Charlotte
+Randle J. - New York
+Barrett R.J. - New York
+Fournier E. - New York
+Walker K. - New York
+Tatum J. - Boston
+Schroder D. - Boston
+Horford A. - Boston
+Smart M. - Boston
+Williams R. - Boston
+Antetokounmpo G. - Milwaukee
+Allen G. - Milwaukee
+Holiday Jrue - Milwaukee
+Garland D. - Cleveland
+Mobley E. - Cleveland
+Allen J. - Cleveland
+Rubio R. - Cleveland
+Grant J. - Detroit
+Cunningham C. - Detroit
+Bey S. - Detroit
+Stewart I. - Detroit
+Wood C. - Houston
+Porter Jr. K. - Houston
+Tate J.S. - Houston
+Bane D. - Memphis
+Melton D. - Memphis
+Paul C. - Phoenix
+Bridges Mikal - Phoenix
+Crowder J. - Phoenix
+Durant K. - Brooklyn
+Harden J. - Brooklyn
+Aldridge L. - Brooklyn
+Harris J. - Brooklyn
+Gilgeous-Alexander S. - Oklahoma
+Dort L. - Oklahoma
+Bazley D. - Oklahoma
+Giddey J. - Oklahoma
+Murray D. - San Antonio
+Johnson K. - San Antonio
+White D. - San Antonio
+Mcdermott D. - San Antonio
+Walker L. - San Antonio
+Doncic L. - Dallas
+Hardaway T. - Dallas
+Porzingis K. - Dallas
+Finney-Smith D. - Dallas
+Powell D. - Dallas
+Jokic N. - Denver
+Barton W. - Denver
+Gordon A. - Denver
+Morris Monte - Denver
+Young T. - Atlanta
+Bogdanovic Bogdan - Atlanta
+Collins J. - Atlanta
+Capela C. - Atlanta
+Curry S. - Golden State
+Poole J. - Golden State
+Wiggins A. - Golden State
+LaVine Z. - Chicago
+DeRozan D. - Chicago
+Ball L. - Chicago
+Davis A. - LA Lakers
+Westbrook R. - LA Lakers
+Anthony C. - LA Lakers
+Edwards A. - Minnesota
+Towns K. - Minnesota
+Russell D. - Minnesota
+
+Mitchell D. - Utah
+Bogdanovic Bojan - Utah
+Clarkson J. - Utah
+Gobert R. - Utah
+O`Neale R. - Utah
+Brogdon M. - Indiana
+Sabonis D. - Indiana
+Turner M. - Indiana
+Duarte C. - Indiana
+Harris T. - Philadelphia
+Maxey T. - Philadelphia
+Curry Seth - Philadelphia
+Green Danny - Philadelphia
+Anthony Cole - Orlando
+Carter Jr. W. - Orlando
+Bamba M. - Orlando
+Suggs J. - Orlando
+VanVleet F. - Toronto
+Anunoby OG - Toronto
+Trent G. Jr - Toronto
+Barnes S. - Toronto
+George P. - L.A. Clippers
+Jackson R. - L.A. Clippers
+Zubac I. - L.A. Clippers
+Bledsoe E. - L.A. Clippers
+Batum N. - L.A. Clippers
+
+
+Davis A. - LA Lakers
+Westbrook R. - LA Lakers
+Murray D. - San Antonio
+Johnson K. - San Antonio
+White D. - San Antonio
+Mcdermott D. - San Antonio
+Eubanks D. - San Antonio
+Ball LaMelo - Charlotte
+Hayward G. - Charlotte
+Rozier T. - Charlotte
+Plumlee M. - Charlotte
+Curry S. - Golden State
+Wiggins A. - Golden State
+Poole J. - Golden State
+Green Draymond - Golden State
+Wood C. - Houston
+Porter Jr. K. - Houston
+Tate J.S. - Houston
+Theis D. - Houston
+Booker D. - Phoenix
+Paul C. - Phoenix
+Bridges Mikal - Phoenix
+Crowder J. - Phoenix
+Gilgeous-Alexander S. - Oklahoma
+Dort L. - Oklahoma
+Bazley D. - Oklahoma
+Giddey J. - Oklahoma
+Durant K. - Brooklyn
+Harden J. - Brooklyn
+Harris J. - Brooklyn
+Brown B. - Brooklyn
+Griffin B. - Brooklyn
+Jokic N. - Denver
+Barton W. - Denver
+Gordon A. - Denver
+Morris Monte - Denver
+McCollum C.J. - Portland
+Powell N. - Portland
+Nurkic J. - Portland
+Covington R. - Portland
+LaVine Z. - Chicago
+DeRozan D. - Chicago
+Ball L. - Chicago
+
+Garland D. - Cleveland
+Mobley E. - Cleveland
+Allen J. - Cleveland
+Rubio R. - Cleveland
+Tatum J. - Boston
+Schroder D. - Boston
+Horford A. - Boston
+Smart M. - Boston
+Williams R. - Boston
+Grant J. - Detroit
+Cunningham C. - Detroit
+Bey S. - Detroit
+Stewart I. - Detroit
+Fox D. - Sacramento
+Barnes H. - Sacramento
+Hield B. - Sacramento
+Holmes R. - Sacramento
+Haliburton T. - Sacramento
+Dinwiddie S. - Washington
+Harrell M. - Washington
+Kuzma K. - Washington
+Caldwell-Pope K. - Washington
+Holiday A. - Washington
+Ingram B. - New Orleans
+Valanciunas J. - New Orleans
+Alexander-Walker N. - New Orleans
+Graham D. - New Orleans
+Hart J. - New Orleans
+Young T. - Atlanta
+Collins J. - Atlanta
+Bogdanovic Bogdan - Atlanta
+Capela C. - Atlanta
+Randle J. - New York
+Barrett R.J. - New York
+Walker K. - New York
+Fournier E. - New York
+Brogdon M. - Indiana
+LeVert C. - Indiana
+Sabonis D. - Indiana
+Turner M. - Indiana
+Doncic L. - Dallas
+Porzingis K. - Dallas
+Hardaway T. - Dallas
+Brunson J. - Dallas
+Finney-Smith D. - Dallas
+Jokic N. - Denver
+Morant J. - Memphis
+Brooks D. - Memphis
+Jackson Jaren - Memphis
+Bane D. - Memphis
+Adams S. - Memphis
+Edwards A. - Minnesota
+Towns K. - Minnesota
+Russell D. - Minnesota
+Booker D. - Phoenix
+Paul C. - Phoenix
+Bridges Mikal - Phoenix
+Gilgeous-Alexander S. - Oklahoma
+Dort L. - Oklahoma
+Bazley D. - Oklahoma
+Giddey J. - Oklahoma
+Davis A. - LA Lakers
+Westbrook R. - LA Lakers
+Anthony C. - LA Lakers
+LaVine Z. - Chicago
+DeRozan D. - Chicago
+Ball L. - Chicago
+
+Loyd J. - Zenit Peters.
+Baron B. - Zenit Peters.
+Mickey J. - Zenit Peters.
+Gudaitis A. - Zenit Peters.
+Ponitka M. - Zenit Peters.
+Poythress A. - Zenit Peters.
+Dorsey T. - Olympiacos
+Vezenkov S. - Olympiacos
+Sloukas K. - Olympiacos
+Papanikolaou K. - Olympiacos
+McKissic S. - Olympiacos
+Walkup T. - Olympiacos
+Jones B. - FMP Beograd
+Nevels G. - FMP Beograd
+Izundu E. - FMP Beograd
+Nerandzic N. - FMP Beograd
+Radonjic M. - FMP Beograd
+Vinales K. - Studentski Centar
+Magee F. - Studentski Centar
+Kamenjas K. - Studentski Centar
+Edwards J. - Studentski Centar
+Vesely J. - Fenerbahce
+De Colo N. - Fenerbahce
+Guduric M. - Fenerbahce
+Booker D. - Fenerbahce
+Henry P. - Fenerbahce
+Polonara A. - Fenerbahce
+Shields S. - Olimpia Milano
+Hall D. - Olimpia Milano
+Mitoglou K. - Olimpia Milano
+Datome L. - Olimpia Milano
+Melli N. - Olimpia Milano
+Rodriguez S. - Olimpia Milano
+Hines K. - Olimpia Milano
+James M. - Monaco
+Andjusic D. - Monaco
+Hall Donta - Monaco
+Diallo A. - Monaco
+Motiejunas D. - Monaco
+Hilliard D. - Bayern
+Lucic V. - Bayern
+Walden C. - Bayern
+Thomas D. - Bayern
+Hunter O. - Bayern
+Rubit A. - Bayern
+Ukic R.L. - Split
+Perkovic T. - Split
+Stipcevic R. - Krka
+Lapornik L. - Krka
+Tavares W. - Real Madrid
+Yabusele G. - Real Madrid
+Abalde A. - Real Madrid
+Heurtel T. - Real Madrid
+Llull S. - Real Madrid
+Poirier V. - Real Madrid
+Lekavicius L. - Zalgiris
+Nebo J. - Zalgiris
+Strelnieks J. - Zalgiris
+Cavanaugh T. - Zalgiris
+Giffey N. - Zalgiris
+Milaknis A. - Zalgiris
+
+
