@@ -20,4 +20,5 @@ for row in rows:
     playerName = pairs.find_elements(By.TAG_NAME, "span")[1].text
     part2 = row.find_element(By.CLASS_NAME, "part2")
     spans = part2.find_elements(By.TAG_NAME, "span")
-    print(time, playerName, spans[2].text, spans[4].text, row.find_element(By.CLASS_NAME, "odds").text)
+    #print(time, playerName, spans[2].text, spans[4].text, row.find_element(By.CLASS_NAME, "odds").text)
+    print(playerName)

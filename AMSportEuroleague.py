@@ -1,9 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-import xlsxwriter
 
-# workbook = xlsxwriter.Workbook('hello.xlsx')
-# worksheet = workbook.add_worksheet()
 from selenium.webdriver.common.by import By
 
 op = webdriver.ChromeOptions()
@@ -12,7 +9,6 @@ service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedrive
 driver = webdriver.Chrome(service=service)
 driver.get('https://www.amsport.bet/sport')
 driver.implicitly_wait(10)
-# element = driver.find_element_by_xpath("//*[text()[contains(., 'Specijal košarka')]]")
 element = driver.find_element(By.ID, "SportPretraga")
 element.click()
 element.send_keys("Euroleague Igra")
@@ -35,5 +31,4 @@ for row in rows:
     margin = columns[7].text
     underBet = columns[8].text
     overBet = columns[9].text
-    print(time, name, margin, underBet, overBet)
-# workbook.close()
+    print(name)

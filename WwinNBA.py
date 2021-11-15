@@ -9,9 +9,10 @@ op.add_argument('headless')
 service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.get('https://wwin.com/sports/#f/0/110/0/')
-driver.find_element(By.ID, "ContentBody_ctl01_ucOffer_ucMenu_ctl27_favTop").click()
+driver.find_element(By.XPATH, "//span[@title='USA - NBA']").click()
 driver.implicitly_wait(10)
-driver.find_elements(By.ID, "market_110_19").click()
+time.sleep(1)
+driver.find_element(By.XPATH, "//span[text()[contains(., 'Number of Points a Player')]]").click()
 print()
 driver.implicitly_wait(10)
 time.sleep(0.1)
@@ -21,8 +22,9 @@ for row in rows:
     try:
         data = row.find_elements(By.TAG_NAME, "td")
         if len(data) == 3:
-            for field in data:
-                print(field.text)
+            print(str(data[0].text).split('(')[0][:-1])
+            # for field in data:
+            #     print(field.text)
     except:
         pass
 

@@ -19,7 +19,7 @@ actions.move_by_offset(5, 5).click().perform()
 driver.execute_script("window.scrollTo(0, 300)")
 time.sleep(2)
 driver.implicitly_wait(10)
-element = driver.find_element(By.XPATH, '//*[@id="top-view"]/div[1]/div[2]/div[2]/div/div[17]/div[1]/div[2]')
+element = driver.find_element(By.XPATH, "//*[text()[contains(., 'Specijal Košarka')]]")
 driver.implicitly_wait(10)
 element.click()
 poeni = driver.find_element(By.XPATH, "//*[text()[contains(., 'Poeni')]]")
@@ -36,4 +36,4 @@ for row in rows:
   under = row.find_elements(By.CLASS_NAME, "tip-with-odd")[1].text
   over = row.find_elements(By.CLASS_NAME, "tip-with-odd")[2].text
 
-  print(date, player_name, margin, under, over)
+  print(player_name)
