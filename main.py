@@ -8,7 +8,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
+service = Service("C:\\Users\\radet\\chromedriver_win32\\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.get('https://www.balkanbet.rs/sportsko-kladjenje')
 

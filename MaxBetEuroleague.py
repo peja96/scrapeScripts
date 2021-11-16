@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 
 op = webdriver.ChromeOptions()
 op.add_argument('headless')
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
+service = Service("C:\\Users\\radet\\chromedriver_win32\\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.get('https://www.maxbet.ba/ibet-web-client/#/home/leaguesWithMatches')
 driver.implicitly_wait(10)
