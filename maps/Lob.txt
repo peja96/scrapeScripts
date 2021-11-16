@@ -253,5 +253,84 @@ DeRozan D. - Chicago
 Lavine Z. - Chicago
 Westbrook R. - L.A. Lakers
 
+Johnson J. - Turk Telekom
+Harrison A. - Turk Telekom
+Ellis O. - Turk Telekom
+McCollum E. - Lokomotiv Kuban
+Motley J. - Lokomotiv Kuban
+Thompson Da. - Lokomotiv Kuban
+Lekavicius L. - Zalgiris Kaunas
+Strelnieks J. - Zalgiris Kaunas
+Cavanaugh T. - Zalgiris Kaunas
+Giffey N. - Zalgiris Kaunas
+Milaknis A. - Zalgiris Kaunas
+Macon D. - Panathinaikos
+Papapetrou I. - Panathinaikos
+Papagiannis G. - Panathinaikos
+Santa-Ros H. - Panathinaikos
+White O. - Panathinaikos
+Homesley C. - Hamburg
+Brown J. - Hamburg
+Cummings W. - Levallois
+Hunter V. - Levallois
+Halilovic M. - Levallois
+Okobo E. - Lyon
+Jones C. - Lyon
+Howard W. - Lyon
+Osetkowski D. - Lyon
+Kahudi C. - Lyon
+Tavares W. - Real Madrid
+Yabusele G. - Real Madrid
+Heurtel T. - Real Madrid
+Llull S. - Real Madrid
+Poirier V. - Real Madrid
+Fontecchio S. - Baskonia
+Giedraitis R. - Baskonia
+Granger J. - Baskonia
+Costello M. - Baskonia
+Enoch S. - Baskonia
+Kalinic N. - Crvena Zvezda
+Wolters N. - Crvena Zvezda
+Dobric O. - Crvena Zvezda
+Kuzmic O. - Crvena Zvezda
+Belinelli M. - Virtus Bologna
+Hervey K. - Virtus Bologna
+Weems K. - Virtus Bologna
+Tonut S. - Venezia
+Watt M. - Venezia
+Brodziansky V. - Joventut Badalona
+Parra J. - Joventut Badalona
+Tomic A. - Joventut Badalona
+Miller-Mclntyre C. - Andorra
+Hannah C. - Andorra
+Jelinek D. - Andorra
+Durant K. - Brooklyn
+Harden J. - Brooklyn
+Mills P. - Brooklyn
+Brown B. Jr - Brooklyn
+Griffin B. - Brooklyn
+Curry S. - Golden State
+Poole J. - Golden State
+Wiggins A. - Golden State
+Green Dr. - Golden State
+Mitchell D. - Utah
+Bogdanovic B. - Utah
+Gobert R. - Utah
+Conley M. - Utah
+O'Neale R. - Utah
+Harris T. - Philadelphia
+Maxey.T - Philadelphia
+Curry Se. - Philadelphia
+Drummond A. - Philadelphia
+George P. - L.A. Clippers
+Jackson R. - L.A. Clippers
+Bledsoe E. - L.A. Clippers
+Batum N. - L.A. Clippers
+Zubac I. - L.A. Clippers
+Murray D. - San Antonio
+Johnson K. - San Antonio
+White D. - San Antonio
+McDermott D. - San Antonio
+Eubanks D. - San Antonio
 
 

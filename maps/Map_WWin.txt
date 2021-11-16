@@ -1,0 +1,140 @@
+AS Monaco/Andjusic, Danilo:Danilo Andjusic
+AS Monaco/Hall, Donta:Donta Hall
+AS Monaco/James, Mike:Mike James
+ASVEL Lyon Villeurbanne/Jones, Chris:Chris Jones
+ASVEL Lyon Villeurbanne/Knight, Marcos:Marcos Knight
+ASVEL Lyon Villeurbanne/Okobo, Elie:Elie Okobo
+Atlanta/Bogdanovic, Bogdan:Bogdan Bogdanovic
+Atlanta/Collins, John:John Collins
+Atlanta/Young, Trae:Trae Young
+BC Olympiakos Piraeus/Dorsey, Tyler:Tyler Dorsey
+BC Olympiakos Piraeus/Sloukas, Kostas:Kostas Sloukas
+BC Olympiakos Piraeus/Vezenkov, Sasha:Sasha Vezenkov
+Baskonia Vitoria-Gasteiz/Baldwin, Wade:Wade Baldwin
+Baskonia Vitoria-Gasteiz/Fontecchio, Simone:Simone Fontecchio
+Baskonia Vitoria-Gasteiz/Giedraitis, Rokas:Rokas Giedraitis
+Bayern Munich/Hilliard, Darrun:Darrun Hilliard
+Bayern Munich/Lucic, Vladimir:Vladimir Lucic
+Bayern Munich/Rubit, Augustine:Augustine Rubit
+Bayern Munich/Thomas, Deshaun:Deshaun Thomas
+Bayern Munich/Walden, Corey:Corey Walden
+Boston Celtics/Horford, Al:Al Horford
+Boston Celtics/Schroder, Dennis:Dennis Schroder
+Boston Celtics/Smart, Marcus:Marcus Smart
+Boston Celtics/Tatum, Jayson:Jayson Tatum
+Brooklyn/Durant, Kevin:Kevin Durant
+Brooklyn/Harden, James:James Harden
+Charlotte Hornets/Ball, LaMelo:LaMelo Ball
+Charlotte Hornets/Bridges, Miles:Miles Bridges
+Charlotte Hornets/Hayward, Gordon:Gordon Hayward
+Charlotte Hornets/Rozier, Terry:Terry Rozier
+Chicago/Ball, Lonzo:Lonzo Ball
+Chicago/LaVine, Zach:Zach LaVine
+Cleveland/Allen, Jarrett:Jarrett Allen
+Cleveland/Garland, Darius:Darius Garland
+Cleveland/Mobley, Evan:Evan Mobley
+Crvena Zvezda/Dobric, Ognjen:Ognjen Dobric
+Crvena Zvezda/Kalinic, Nikola:Nikola Kalinic
+Crvena Zvezda/Wolters, Nate:Nate Wolters
+Dallas/Doncic, Luka:Luka Doncic
+Dallas/Hardaway Jr., Tim:Tim Hardaway Jr.
+Dallas/Porzingis, Kristaps:Kristaps Porzingis
+Denver/Barton, Will:Will Barton
+Denver/Jokic, Nikola:Nikola Jokic
+Detroit Pistons/Bey, Saddiq:Saddiq Bey
+Detroit Pistons/Cunningham, Cade:Cade Cunningham
+Detroit Pistons/Grant, Jerami:Jerami Grant
+FC Barcelona/Calathes, Nick:Nick Calathes
+FC Barcelona/Davies, Brandon:Brandon Davies
+FC Barcelona/Mirotic, Nikola:Nikola Mirotic
+Fenerbahce Istanbul/Booker, Devin:Devin Booker
+Fenerbahce Istanbul/De Colo, Nando:Nando De Colo
+Fenerbahce Istanbul/Guduric, Marko:Marko Guduric
+Fenerbahce Istanbul/Vesely, Jan:Jan Vesely
+Golden State Warriors/Curry, Stephen:Stephen Curry
+Golden State Warriors/Poole, Jordan:Jordan Poole
+Golden State Warriors/Wiggins, Andrew:Andrew Wiggins
+Houston/Green, Jalen:Jalen Green
+Houston/Porter Jr., Kevin:Kevin Porter Jr.
+Houston/Wood, Christian:Christian Wood
+Indiana/Brogdon, Malcolm:Malcolm Brogdon
+Indiana/Duarte, Chris:Chris Duarte
+Indiana/LeVert, Caris:Caris LeVert
+Indiana/Sabonis, Domantas:Domantas Sabonis
+Indiana/Turner, Myles:Myles Turner
+LA Clippers/Batum, Nicolas:Nicolas Batum
+LA Clippers/George, Paul:Paul George
+LA Clippers/Jackson, Reggie:Reggie Jackson
+LA Clippers/Zubac, Ivica:Ivica Zubac
+Los Angeles Lakers/Anthony, Carmelo:Carmelo Anthony
+Los Angeles Lakers/Davis, Anthony:Anthony Davis
+Los Angeles Lakers/Westbrook, Russell:Russell Westbrook
+Memphis/Bane, Desmond:Desmond Bane
+Memphis/Jackson Jr., Jaren:Jaren Jackson Jr.
+Memphis/Morant, Ja:Ja Morant
+Milano/Datome, Luigi:Luigi Datome
+Milano/Hall, Devon:Devon Hall
+Milano/Melli, Nicolo:Nicolo Melli
+Milano/Shields, Shavon:Shavon Shields
+Milwaukee Bucks/Antetokounmpo, Giannis:Giannis Antetokounmpo
+Milwaukee Bucks/Holiday, Jrue:Jrue Holiday
+Milwaukee Bucks/Portis, Bobby:Bobby Portis
+Minnesota Timberwolves/Edwards, Anthony:Anthony Edwards
+Minnesota Timberwolves/Russell, D`Angelo:D`Angelo Russell
+Minnesota Timberwolves/Towns, Karl-Anthony:Karl-Anthony Towns
+New Orleans/Graham, Devonte:Devonte Graham
+New Orleans/Ingram, Brandon:Brandon Ingram
+New Orleans/Valanciunas, Jonas:Jonas Valanciunas
+New York/Barrett, RJ:RJ Barrett
+New York/Fournier, Evan:Evan Fournier
+New York/Randle, Julius:Julius Randle
+New York/Walker, Kemba:Kemba Walker
+Oklahoma City/Bazley, Darius:Darius Bazley
+Oklahoma City/Dort, Luguentz:Luguentz Dort
+Oklahoma City/Gilgeous Alexander, S.:S. Gilgeous Alexander
+Orlando/Anthony, Cole:Cole Anthony
+Orlando/Bamba, Mo:Mo Bamba
+Orlando/Carter Jr., Wendell:Wendell Carter Jr.
+Panathinaikos BC/Macon, Daryl:Daryl Macon
+Panathinaikos BC/Papagiannis, Georgios:Georgios Papagiannis
+Panathinaikos BC/Papapetrou, Ioannis:Ioannis Papapetrou
+Philadelphia/Curry, Seth:Seth Curry
+Philadelphia/Harris, Tobias:Tobias Harris
+Philadelphia/Maxey, Tyrese:Tyrese Maxey
+Phoenix/Booker, Devin:Devin Booker
+Phoenix/Bridges, Mikal:Mikal Bridges
+Phoenix/Paul, Chris:Chris Paul
+Portland/Lillard, Damian:Damian Lillard
+Portland/McCollum, CJ:CJ McCollum
+Portland/Nurkic, Jusuf:Jusuf Nurkic
+Portland/Powell, Norman:Norman Powell
+Real Madrid/Heurtel, Thomas:Thomas Heurtel
+Real Madrid/Llull, Sergio:Sergio Llull
+Real Madrid/Tavares, Walter:Walter Tavares
+Real Madrid/Yabusele, Guerschon:Guerschon Yabusele
+Sacramento Kings/Barnes, Harrison:Harrison Barnes
+Sacramento Kings/Fox, De'Aaron:De'Aaron Fox
+Sacramento Kings/Hield, Buddy:Buddy Hield
+San Antonio/Johnson, Keldon:Keldon Johnson
+San Antonio/McDermott, Doug:Doug McDermott
+San Antonio/Murray, Dejounte:Dejounte Murray
+Toronto/Anunoby, OG:OG Anunoby
+Toronto/Barnes, Scottie:Scottie Barnes
+Toronto/Siakam, Pascal:Pascal Siakam
+Toronto/Trent Jr., Gary:Gary Trent Jr.
+Toronto/VanVleet, Fred:Fred VanVleet
+Utah/Bogdanovic, Bojan:Bojan Bogdanovic
+Utah/Clarkson, Jordan:Jordan Clarkson
+Utah/Conley, Mike:Mike Conley
+Utah/Gobert, Rudy:Rudy Gobert
+Utah/Mitchell, Donovan:Donovan Mitchell
+Washington/Dinwiddie, Spencer:Spencer Dinwiddie
+Washington/Kuzma, Kyle:Kyle Kuzma
+Zalgiris/Cavanaugh, Tyler:Tyler Cavanaugh
+Zalgiris/Lekavicius, Lukas:Lukas Lekavicius
+Zalgiris/Nebo, Josh:Josh Nebo
+Zalgiris/Strelnieks, Janis:Janis Strelnieks
+Zalgiris/Webster, Tai:Tai Webster
+Zenit SP/Baron, Billy:Billy Baron
+Zenit SP/Loyd, Jordan:Jordan Loyd
+Zenit SP/Mickey, Jordan:Jordan Mickey

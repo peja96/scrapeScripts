@@ -57,7 +57,6 @@ Dallas/Doncic, Luka
 Dallas/Hardaway Jr., Tim
 Dallas/Porzingis, Kristaps
 San Antonio/Derrick White
-San Antonio/Keldon Johnson
 San Antonio/McDermott, Doug
 Chicago/Ball, Lonzo
 Chicago/DeMar DeRozan
@@ -113,7 +112,6 @@ Utah/Mitchell, Donovan
 Los Angeles Lakers/Anthony, Carmelo
 Los Angeles Lakers/Davis, Anthony
 Los Angeles Lakers/Westbrook, Russell
-San Antonio/Keldon Johnson
 San Antonio/Murray, Dejounte
 Brooklyn/Durant, Kevin
 Brooklyn/Harden, James
@@ -185,7 +183,21 @@ Orlando/Bamba, Mo
 Oklahoma City/Dort, Luguentz
 Oklahoma City/Gilgeous Alexander, S.
 
-
+Brooklyn/Durant, Kevin
+Brooklyn/Harden, James
+Golden State Warriors/Curry, Stephen
+Golden State Warriors/Poole, Jordan
+Golden State Warriors/Wiggins, Andrew
+Philadelphia/Curry, Seth
+Philadelphia/Harris, Tobias
+Philadelphia/Maxey, Tyrese
+Utah/Bogdanovic, Bojan
+Utah/Gobert, Rudy
+Utah/Mitchell, Donovan
+LA Clippers/George, Paul
+LA Clippers/Jackson, Reggie
+San Antonio/Johnson, Keldon
+San Antonio/Murray, Dejounte
 
 Baskonia Vitoria-Gasteiz/Baldwin, Wade
 Baskonia Vitoria-Gasteiz/Fontecchio, Simone
@@ -221,3 +233,32 @@ Real Madrid/Yabusele, Guerschon
 Zalgiris/Lekavicius, Lukas
 Zalgiris/Nebo, Josh
 Zalgiris/Strelnieks, Janis
+
+Panathinaikos BC/Macon, Daryl
+Panathinaikos BC/Papagiannis, Georgios
+Panathinaikos BC/Papapetrou, Ioannis
+Zalgiris/Cavanaugh, Tyler
+Zalgiris/Lekavicius, Lukas
+Zalgiris/Strelnieks, Janis
+Zalgiris/Webster, Tai
+ASVEL Lyon Villeurbanne/Jones, Chris
+ASVEL Lyon Villeurbanne/Knight, Marcos
+ASVEL Lyon Villeurbanne/Okobo, Elie
+Real Madrid/Heurtel, Thomas
+Real Madrid/Llull, Sergio
+Real Madrid/Tavares, Walter
+Real Madrid/Yabusele, Guerschon
+Baskonia Vitoria-Gasteiz/Baldwin, Wade
+Baskonia Vitoria-Gasteiz/Fontecchio, Simone
+Baskonia Vitoria-Gasteiz/Giedraitis, Rokas
+Bayern Munich/Hilliard, Darrun
+Bayern Munich/Lucic, Vladimir
+Bayern Munich/Thomas, Deshaun
+Bayern Munich/Walden, Corey
+Crvena Zvezda/Dobric, Ognjen
+Crvena Zvezda/Kalinic, Nikola
+Crvena Zvezda/Wolters, Nate
+Fenerbahce Istanbul/Booker, Devin
+Fenerbahce Istanbul/De Colo, Nando
+Fenerbahce Istanbul/Vesely, Jan
+

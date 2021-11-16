@@ -271,4 +271,81 @@ Cavanaugh T. - Zalgiris
 Giffey N. - Zalgiris
 Milaknis A. - Zalgiris
 
+Harrison A. - Turk Telekom
+Johnson J. - Turk Telekom
+Dawkins A. - Turk Telekom
+Ellis O. - Turk Telekom
+McCollum E. - Lokomotiv K.
+Motley J. - Lokomotiv K.
+Thompson D. - Lokomotiv K.
+Kidd S. - Lokomotiv K.
+Lekavicius L. - Zalgiris
+Strelnieks J. - Zalgiris
+Cavanaugh T. - Zalgiris
+Giffey N. - Zalgiris
+Milaknis A. - Zalgiris
+Macon D. - Panathinaikos
+Papapetrou I. - Panathinaikos
+Papagiannis G. - Panathinaikos
+White O. - Panathinaikos
+Sant-Roos H. - Panathinaikos
+Homesley C. - Hamburg
+Brown Jaylon - Hamburg
+Kotsar M. - Hamburg
+Hinrichs S. - Hamburg
+Cummings W. - Levallois
+McRae J. - Levallois
+Hunter V. - Levallois
+Ginat T. - Levallois
+Halilovic M. - Levallois
+Okobo E. - Lyon-Villeurb.
+Jones C. - Lyon-Villeurb.
+Howard W. - Lyon-Villeurb.
+Kahudi C. - Lyon-Villeurb.
+Yabusele G. - Real Madrid
+Tavares W. - Real Madrid
+Heurtel T. - Real Madrid
+Llull S. - Real Madrid
+Poirier V. - Real Madrid
+Fontecchio S. - Baskonia
+Baldwin W. - Baskonia
+Giedraitis R. - Baskonia
+Granger J. - Baskonia
+Costello M. - Baskonia
+Kalinic N. - Crvena zvezda
+Wolters N. - Crvena zvezda
+Dobric O. - Crvena zvezda
+Ivanovic N. - Crvena zvezda
+Kuzmic O. - Crvena zvezda
+Hollins A. - Crvena zvezda
+Hilliard D. - Bayern
+Lucic V. - Bayern
+Walden C. - Bayern
+Rubit A. - Bayern
+Thomas D. - Bayern
+Hunter O. - Bayern
+De Colo N. - Fenerbahce
+Vesely J. - Fenerbahce
+Booker D. - Fenerbahce
+Guduric M. - Fenerbahce
+Henry P. - Fenerbahce
+Polonara A. - Fenerbahce
+Belinelli M. - Virtus Bologna
+Hervey K. - Virtus Bologna
+Teodosic M. - Virtus Bologna
+Weems K. - Virtus Bologna
+Cordinier I. - Virtus Bologna
+Tonut S. - Venezia
+Watt M. - Venezia
+Daye A. - Venezia
+Phillip T. - Venezia
+Brodziansky V. - Joventut
+Tomic A. - Joventut
+Parra J. - Joventut
+Ribas P. - Joventut
+Willis D. - Joventut
+Miller-McIntyre C. - Andorra
+Hannah C. - Andorra
+Jelinek D. - Andorra
+Crawford D. - Andorra
 
