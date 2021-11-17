@@ -2,7 +2,7 @@ import os.path
 from os import listdir
 from os.path import isfile, join
 
-path = 'maps/AMSport.txt'
+path = 'maps/Map_MaxBet.txt'
 
 with open(path) as f:
     lines = f.read().splitlines()
@@ -12,7 +12,7 @@ with open(path) as f:
             players.append(line)
     players.sort()
 
-new_path = 'maps/Sort_WWin.txt'
+new_path = 'maps/Map_MaxBet.txt'
 new_file = open(new_path, 'w')
 for player in players:
     new_file.write(player + '\n')
