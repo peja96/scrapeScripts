@@ -1,17 +1,31 @@
+Abalde A. - Real Madrid:Alberto Abalde
 Adams S. - Memphis:Steven Adams
+Aldridge L. - Brooklyn:LaMarcus Aldridge
 Alexander-Walker N. - New Orleans:Nickeil Alexander-Walker
+Allen G. - Milwaukee:Grayson Allen
 Allen J. - Cleveland:Jarrett Allen
+Andjusic D. - Monaco:Danilo Andjusic
+Antetokounmpo G. - Milwaukee:Giannis Antetokounmpo
 Anthony C. - LA Lakers:Carmelo Anthony
+Anthony Cole - Orlando:Cole Anthony
+Anunoby O. - Toronto:OG Anunoby
 Anunoby OG - Toronto:OG Anunoby
+Baldwin W. - Baskonia:Wade Baldwin iv
 Ball L. - Chicago:Lonzo Ball
+Ball LaMelo - Charlotte:LaMelo Ball
+Bamba M. - Orlando:Mo Bamba
 Bane D. - Memphis:Desmond Bane
 Barnes H. - Sacramento:Harrison Barnes
 Barnes S. - Toronto:Scottie Barnes
+Baron B. - Zenit Peters.:Billy Baron
 Barrett R.J. - New York:RJ Barrett
+Barton W. - Denver:Will Barton
 Batum N. - L.A. Clippers:Nicolas Batum
 Bazley D. - Oklahoma:Darius Bazley
+Beaubois R. - Anadolu Efes:Rodrigue Beaubois
 Bey S. - Detroit:Saddiq Bey
 Bledsoe E. - L.A. Clippers:Eric Bledsoe
+Bogdanovic B. - Utah:Bojan Bogdanovic
 Bogdanovic Bogdan - Atlanta:Bogdan Bogdanovic
 Bogdanovic Bojan - Utah:Bojan Bogdanovic
 Booker D. - Fenerbahce:Devin Booker
@@ -20,65 +34,210 @@ Bridges M. - Charlotte:Mikal Bridges
 Bridges Mikal - Phoenix:Mikal Bridges
 Brogdon M. - Indiana:Malcolm Brogdon
 Brooks D. - Memphis:Dillon Brooks
+Brown B. - Brooklyn:Bruce Brown
+Brown L. - Unics Kazan:Lorenzo Brown
 Brunson J. - Dallas:Jalen Brunson
+Bryant E. - Anadolu Efes:Elijah Bryant
+Calathes N. - Barcelona:Nick Calathes
 Caldwell-Pope K. - Washington:Kentavious Caldwell-Pope
+Canaan I. - Unics Kazan:Isaiah Canaan
 Capela C. - Atlanta:Clint Capela
+Carter Jr. W. - Orlando:Wendell Carter Jr.
+Cavanaugh T. - Zalgiris:Tyler Cavanaugh
 Clarkson J. - Utah:Jordan Clarkson
+Clyburn W. - CSKA Moscow:Will Clyburn
 Collins J. - Atlanta:John Collins
 Conley M. - Utah:Mike Conley
+Costello M. - Baskonia:Matthew Costello
+Covington R. - Portland:Robert Covington
+Crowder J. - Phoenix:Jae Crowder
 Cunningham C. - Detroit:Cade Cunningham
+Curry S. - Golden State:Stephen Curry
+Curry Seth - Philadelphia:Seth Curry
+Da Silva O. - Alba Berlin:Oscar Da silva
+Datome L. - Olimpia Milano:Luigi Datome
+Davies B. - Barcelona:Brandon Davies
 Davis A. - LA Lakers:Anthony Davis
+De Colo N. - Fenerbahce:Nando De Colo
 DeRozan D. - Chicago:DeMar DeRozan
+Diallo A. - Monaco:Alpha Diallo
 Dinwiddie S. - Washington:Spencer Dinwiddie
+Dobric O. - Crvena Zvezda:Ognjen Dobric
+Dobric O. - Crvena zvezda:Ognjen Dobric
 Doncic L. - Dallas:Luka Doncic
+Dorsey T. - Olympiacos:Tyler Dorsey
 Dort L. - Oklahoma:Luguentz Dort
+Drummond A. - Philadelphia:Andre Drummond
+Duarte C. - Indiana:Chris Duarte
+Durant K. - Brooklyn:Kevin Durant
 Edwards A. - Minnesota:Anthony Edwards
+Eriksson M. - Alba Berlin:Marcus Eriksson
+Eubanks D. - San Antonio:
+Evans K. - Maccabi Tel Aviv:Jeremy Evans
 Finney-Smith D. - Dallas:Dorian Finney-Smith
+Fontecchio S. - Baskonia:Simone Fontecchio
 Fournier E. - New York:Evan Fournier
 Fox D. - Sacramento:De'Aaron Fox
 Garland D. - Cleveland:Darius Garland
 George P. - L.A. Clippers:Paul George
 Giddey J. - Oklahoma:Josh Giddey
+Giedraitis R. - Baskonia:Rokas Giedraitis
+Giffey N. - Zalgiris:Niels Giffey
 Gilgeous-Alexander S. - Oklahoma:Shai Gilgeous-Alexander
 Gobert R. - Utah:Rudy Gobert
+Gordon A. - Denver:Aaron Gordon
 Graham D. - New Orleans:Devonte' Graham
+Granger J. - Baskonia:Jayson Granger
 Grant J. - Detroit:Jerian Grant
+Green Danny - Philadelphia:Danny Green
+Green Draymond - Golden State:Draymond Green
+Griffin B. - Brooklyn:Blake Griffin
+Gudaitis A. - Zenit Peters.:Arturas Gudaitis
+Guduric M. - Fenerbahce:Marko Guduric
 Haliburton T. - Sacramento:Tyrese Haliburton
+Hall D. - Olimpia Milano:Devon Hall
+Hall Donta - Monaco:Donta Hall
 Hardaway T. - Dallas:Tim Hardaway Jr.
+Harden J. - Brooklyn:James Harden
 Harrell M. - Washington:Montrezl Harrell
+Harris J. - Brooklyn:Joe Harris
+Harris T. - Philadelphia:Tobias Harris
 Hart J. - New Orleans:Josh Hart
+Hayes N. - Barcelona:Nigel Hayes-davis
+Hayward G. - Charlotte:Gordon Hayward
+Henry P. - Fenerbahce:Pierria Henry
+Heurtel T. - Real Madrid:Thomas Heurtel
+Hezonja M. - Unics Kazan:Mario Hezonja
 Hield B. - Sacramento:Buddy Hield
+Hilliard D. - Bayern:Darrun Hilliard
+Hines K. - Olimpia Milano:Kyle Hines
 Holiday A. - Washington:Aaron Holiday
+Holiday Jrue - Milwaukee:Jrue Holiday
+Hollins A. - Crvena Zvezda:Austin Hollins
+Hollins A. - Crvena zvezda:Austin Hollins
 Holmes R. - Sacramento:Richaun Holmes
 Horford A. - Boston:Al Horford
+Howard W. - Lyon-Villeurb.:William Howard
+Howard W. - Lyon:William Howard
+Hunter O. - Bayern:Othello Hunter
 Ingram B. - New Orleans:Brandon Ingram
+Ivanovic N. - Crvena zvezda:Nikola Ivanovic
 Jackson Jaren - Memphis:Jaren Jackson Jr.
 Jackson R. - L.A. Clippers:Reggie Jackson
+James M. - Monaco:Mike James
+Jekiri T.F. - Unics Kazan:Tonye Jekiri
+Johnson K. - San Antonio:Keldon Johnson
 Jokic N. - Denver:Nikola Jokic
+Jones C. - Lyon-Villeurb.:Chris Jones
+Jones C. - Lyon:Chris Jones
+Kahudi C. - Lyon-Villeurb.:Charles Kahudi
+Kahudi C. - Lyon:Charles Kahudi
+Kalinic N. - Crvena Zvezda:Nikola Kalinic
+Kalinic N. - Crvena zvezda:Nikola Kalinic
+Kurbanov N. - CSKA Moscow:Nikita Kurbanov
+Kuric K. - Barcelona:Kyle Kuric
 Kuzma K. - Washington:Kyle Kuzma
+Kuzmic O. - Crvena Zvezda:Ognjen Kuzmic
+Kuzmic O. - Crvena zvezda:Ognjen Kuzmic
 LaVine Z. - Chicago:Zach LaVine
+Larkin S. - Anadolu Efes:Shane Larkin
 LeVert C. - Indiana:Caris LeVert
+Lekavicius L. - Zalgiris:Lukas Lekavicius
+Llull S. - Real Madrid:Sergio Llull
+Lo M. - Alba Berlin:Maodo Lo
+Loyd J. - Zenit Peters.:Jordan Loyd
+Lucic V. - Bayern:Vladimir Lucic
+Macon D. - Panathinaikos:Daryl Macon jr
+Maxey T. - Philadelphia:Tyrese Maxey
+McCollum C.J. - Portland:CJ McCollum
+McKissic S. - Olympiacos:Shaquielle Mckissic
+Mcdermott D. - San Antonio:Doug McDermott
+Melli N. - Olimpia Milano:Nicolo Melli
+Melton D. - Memphis:De'Anthony Melton
+Micic V. - Anadolu Efes:Vasilije Micic
+Mickey J. - Zenit Peters.:Jordan Mickey
+Milaknis A. - Zalgiris:Arturas Milaknis
+Mills P. - Brooklyn:Patty Mills
+Mirotic N. - Barcelona:Nikola Mirotic
 Mitchell D. - Utah:Donovan Mitchell
+Mitoglou K. - Olimpia Milano:Konstantinos Mitoglou
 Mobley E. - Cleveland:Evan Mobley
+Moerman A. - Anadolu Efes:Adrien Moerman
 Morant J. - Memphis:Ja Morant
+Morris Monte - Denver:Monte Morris
+Motiejunas D. - Monaco:Donatas Motiejunas
+Murray D. - San Antonio:Dejounte Murray
+Nebo J. - Zalgiris:Josh Nebo
+Nnoko L. - Baskonia:Landry Nnoko
+Nunnally J. - Maccabi Tel Aviv:James Nunnally
+Nurkic J. - Portland:Jusuf Nurkic
+O'Neale R. - Utah:Royce O'Neale
 O`Neale R. - Utah:Royce O'Neale
+Okobo E. - Lyon-Villeurb.:Elie Okobo
+Okobo E. - Lyon:Elie Okobo
+Papagiannis G. - Panathinaikos:Georgios Papagiannis
+Papanikolaou K. - Olympiacos:Kostas Papanikolaou
+Papapetrou I. - Panathinaikos:Ioannis Papapetrou
 Paul C. - Phoenix:Chris Paul
+Plumlee M. - Charlotte:Mason Plumlee
+Poirier V. - Real Madrid:Vincent Poirier
+Polonara A. - Fenerbahce:Achille Polonara
+Ponitka M. - Zenit Peters.:Mateusz Ponitka
+Poole J. - Golden State:Jordan Poole
+Porter Jr. K. - Houston:Kevin Porter Jr.
 Porzingis K. - Dallas:Kristaps Porzingis
+Powell D. - Dallas:Dwight Powell
+Powell N. - Portland:Norman Powell
+Poythress A. - Zenit Peters.:Alex Poythress
 Randle J. - New York:Julius Randle
+Reynolds J. - Maccabi Tel Aviv:Jalen Reynolds
+Rodriguez S. - Olimpia Milano:Sergio Rodriguez
+Rozier T. - Charlotte:Terry Rozier
 Rubio R. - Cleveland:Ricky Rubio
+Rubit A. - Bayern:Augustine Rubit
 Russell D. - Minnesota:D'Angelo Russell
 Sabonis D. - Indiana:Domantas Sabonis
+Sant-Roos H. - Panathinaikos:Howard Sant-Roos
+Santa-Ros H. - Panathinaikos:Howard Sant-Roos
 Schroder D. - Boston:Dennis Schroder
+Sedekerskis T. - Baskonia:Tadas Sedekerskis
+Shengelia T. - CSKA Moscow:Tornike Shengelia
+Shields S. - Olimpia Milano:Shavon Shields
+Sikma L. - Alba Berlin:Luke Sikma
+Sloukas K. - Olympiacos:Kostas Sloukas
 Smart M. - Boston:Marcus Smart
 Stewart I. - Detroit:Isaiah Stewart
+Strelnieks J. - Zalgiris:Janis Strelnieks
+Suggs J. - Orlando:Jalen Suggs
+Tate J.S. - Houston:Jae'Sean Tate
 Tatum J. - Boston:Jayson Tatum
+Tavares W. - Real Madrid:Walter Tavares
+Theis D. - Houston:Daniel Theis
+Thomas D. - Bayern:Deshaun Thomas
 Towns K. - Minnesota:Karl-Anthony Towns
+Trent G. - Toronto:Gary Trent Jr.
 Trent G. Jr - Toronto:Gary Trent Jr.
 Turner M. - Indiana:Myles Turner
+Valanciunas J. - New Orleans:Jonas Valanciunas
 Valanciunas J.:Jonas Valanciunas
 VanVleet F. - Toronto:Fred VanVleet
+Vesely J. - Fenerbahce:Jan Vesely
+Vezenkov S. - Olympiacos:Sasha Vezenkov
+Walden C. - Bayern:Corey Walden
 Walker K. - New York:Kemba Walker
+Walker L. - San Antonio:Lonnie Walker IV
+Walkup T. - Olympiacos:Thomas Walkup
 Westbrook R. - LA Lakers:Russell Westbrook
+White D. - San Antonio:Derrick White
+White O. - Panathinaikos:Okaro White
+Wiggins A. - Golden State:Andrew Wiggins
+Williams D. - Maccabi Tel Aviv:Derrick Williams
 Williams R. - Boston:Robert Williams III
+Wolters N. - Crvena Zvezda:Nate Wolters
+Wolters N. - Crvena zvezda:Nate Wolters
+Wood C. - Houston:Christian Wood
+Yabusele G. - Real Madrid:Guerschon Yabusele
 Young T. - Atlanta:Trae Young
+Zizic A. - Maccabi Tel Aviv:Ante Zizic
+Zoosman Y. - Alba Berlin:Yovel Zoosman
 Zubac I. - L.A. Clippers:Ivica Zubac

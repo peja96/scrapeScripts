@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 op = webdriver.ChromeOptions()
 op.add_argument('headless')
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
+service = Service("C:\\Users\\Nikola\\Documents\\chromedriver\\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.get('https://www.mozzartbet.ba/bs/kladjenje-2018#/?sid=2')
 driver.find_element(By.XPATH, "//*[text()[contains(., 'EVROLIGA  -  IGRAČI')]]").click()

@@ -209,6 +209,35 @@ LaVine Z. - Chicago
 DeRozan D. - Chicago
 Ball L. - Chicago
 
+Durant K. - Brooklyn
+Harden J. - Brooklyn
+Mills P. - Brooklyn
+Brown B. - Brooklyn
+Griffin B. - Brooklyn
+Curry S. - Golden State
+Poole J. - Golden State
+Wiggins A. - Golden State
+Green Draymond - Golden State
+Mitchell D. - Utah
+Bogdanovic Bojan - Utah
+Clarkson J. - Utah
+Conley M. - Utah
+Gobert R. - Utah
+Harris T. - Philadelphia
+Maxey T. - Philadelphia
+Curry Seth - Philadelphia
+Drummond A. - Philadelphia
+George P. - L.A. Clippers
+Jackson R. - L.A. Clippers
+Bledsoe E. - L.A. Clippers
+Zubac I. - L.A. Clippers
+Batum N. - L.A. Clippers
+Murray D. - San Antonio
+Johnson K. - San Antonio
+Mcdermott D. - San Antonio
+White D. - San Antonio
+
+
 Loyd J. - Zenit Peters.
 Baron B. - Zenit Peters.
 Mickey J. - Zenit Peters.

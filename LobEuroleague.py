@@ -9,7 +9,7 @@ op = webdriver.ChromeOptions()
 #op.add_argument('headless')
 op.add_argument('enable-popup-blocking')
 
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
+service = Service("C:\\Users\\Nikola\\Documents\\chromedriver\\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.get('https://www.lobbet.me/ibet-web-client/#/home/leaguesWithMatches')
 driver.implicitly_wait(10)

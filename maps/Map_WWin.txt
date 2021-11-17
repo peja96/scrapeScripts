@@ -4,12 +4,23 @@ AS Monaco/James, Mike:Mike James
 ASVEL Lyon Villeurbanne/Jones, Chris:Chris Jones
 ASVEL Lyon Villeurbanne/Knight, Marcos:Marcos Knight
 ASVEL Lyon Villeurbanne/Okobo, Elie:Elie Okobo
+Alba Berlin/Da Silva, Oscar:Oscar Da Silva
+Alba Berlin/Lo, Maodo:Maodo Lo
+Alba Berlin/Sikma, Luke:Luke Sikma
+Anadolu Efes/Beaubois, Rodrigue:Rodrigue Beaubois
+Anadolu Efes/Larkin, Shane:Shane Larkin
+Anadolu Efes/Micic, Vasilije:Vasilije Micic
+Anadolu Efes/Moerman, Adrien Rene:Adrien Rene Moerman
+Anadolu Efes/Simon, Krunoslav:Krunoslav Simon
 Atlanta/Bogdanovic, Bogdan:Bogdan Bogdanovic
 Atlanta/Collins, John:John Collins
 Atlanta/Young, Trae:Trae Young
 BC Olympiakos Piraeus/Dorsey, Tyler:Tyler Dorsey
 BC Olympiakos Piraeus/Sloukas, Kostas:Kostas Sloukas
 BC Olympiakos Piraeus/Vezenkov, Sasha:Sasha Vezenkov
+BC Uniks Kazan/Brown, Lorenzo:Lorenzo Brown
+BC Uniks Kazan/Canaan, Isaiah:Isaiah Canaan
+BC Uniks Kazan/Hezonja, Mario:Mario Hezonja
 Baskonia Vitoria-Gasteiz/Baldwin, Wade:Wade Baldwin
 Baskonia Vitoria-Gasteiz/Fontecchio, Simone:Simone Fontecchio
 Baskonia Vitoria-Gasteiz/Giedraitis, Rokas:Rokas Giedraitis
@@ -24,11 +35,16 @@ Boston Celtics/Smart, Marcus:Marcus Smart
 Boston Celtics/Tatum, Jayson:Jayson Tatum
 Brooklyn/Durant, Kevin:Kevin Durant
 Brooklyn/Harden, James:James Harden
+Brooklyn/LaMarcus Aldridge:LaMarcus Aldridge
+CSKA Moscow/Clyburn, William:William Clyburn
+CSKA Moscow/Shengelia, Tornike:Tornike Shengelia
+CSKA Moscow/Shved, Alexey:Alexey Shved
 Charlotte Hornets/Ball, LaMelo:LaMelo Ball
 Charlotte Hornets/Bridges, Miles:Miles Bridges
 Charlotte Hornets/Hayward, Gordon:Gordon Hayward
 Charlotte Hornets/Rozier, Terry:Terry Rozier
 Chicago/Ball, Lonzo:Lonzo Ball
+Chicago/DeMar DeRozan:DeMar DeRozan
 Chicago/LaVine, Zach:Zach LaVine
 Cleveland/Allen, Jarrett:Jarrett Allen
 Cleveland/Garland, Darius:Darius Garland
@@ -55,6 +71,7 @@ Golden State Warriors/Curry, Stephen:Stephen Curry
 Golden State Warriors/Poole, Jordan:Jordan Poole
 Golden State Warriors/Wiggins, Andrew:Andrew Wiggins
 Houston/Green, Jalen:Jalen Green
+Houston/Jae Sean Tate:Jae Sean Tate
 Houston/Porter Jr., Kevin:Kevin Porter Jr.
 Houston/Wood, Christian:Christian Wood
 Indiana/Brogdon, Malcolm:Malcolm Brogdon
@@ -69,6 +86,10 @@ LA Clippers/Zubac, Ivica:Ivica Zubac
 Los Angeles Lakers/Anthony, Carmelo:Carmelo Anthony
 Los Angeles Lakers/Davis, Anthony:Anthony Davis
 Los Angeles Lakers/Westbrook, Russell:Russell Westbrook
+Maccabi Tel-Aviv/Nunnally, James:James Nunnally
+Maccabi Tel-Aviv/Wilbekin, Scott:Scott Wilbekin
+Maccabi Tel-Aviv/Williams, Derrick:Derrick Williams
+Maccabi Tel-Aviv/Zizic, Ante:Ante Zizic
 Memphis/Bane, Desmond:Desmond Bane
 Memphis/Jackson Jr., Jaren:Jaren Jackson Jr.
 Memphis/Morant, Ja:Ja Morant
@@ -95,6 +116,7 @@ Oklahoma City/Gilgeous Alexander, S.:S. Gilgeous Alexander
 Orlando/Anthony, Cole:Cole Anthony
 Orlando/Bamba, Mo:Mo Bamba
 Orlando/Carter Jr., Wendell:Wendell Carter Jr.
+Orlando/Wagner, Franz:Franz Wagner
 Panathinaikos BC/Macon, Daryl:Daryl Macon
 Panathinaikos BC/Papagiannis, Georgios:Georgios Papagiannis
 Panathinaikos BC/Papapetrou, Ioannis:Ioannis Papapetrou
@@ -115,6 +137,7 @@ Real Madrid/Yabusele, Guerschon:Guerschon Yabusele
 Sacramento Kings/Barnes, Harrison:Harrison Barnes
 Sacramento Kings/Fox, De'Aaron:De'Aaron Fox
 Sacramento Kings/Hield, Buddy:Buddy Hield
+San Antonio/Derrick White:Derrick White
 San Antonio/Johnson, Keldon:Keldon Johnson
 San Antonio/McDermott, Doug:Doug McDermott
 San Antonio/Murray, Dejounte:Dejounte Murray
@@ -128,6 +151,7 @@ Utah/Clarkson, Jordan:Jordan Clarkson
 Utah/Conley, Mike:Mike Conley
 Utah/Gobert, Rudy:Rudy Gobert
 Utah/Mitchell, Donovan:Donovan Mitchell
+Washington/Beal, Bradley:Bradley Beal
 Washington/Dinwiddie, Spencer:Spencer Dinwiddie
 Washington/Kuzma, Kyle:Kyle Kuzma
 Zalgiris/Cavanaugh, Tyler:Tyler Cavanaugh

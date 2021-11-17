@@ -262,3 +262,78 @@ Fenerbahce Istanbul/Booker, Devin
 Fenerbahce Istanbul/De Colo, Nando
 Fenerbahce Istanbul/Vesely, Jan
 
+Alba Berlin/Da Silva, Oscar
+Alba Berlin/Lo, Maodo
+Alba Berlin/Sikma, Luke
+Zenit SP/Baron, Billy
+Zenit SP/Loyd, Jordan
+Zenit SP/Mickey, Jordan
+BC Uniks Kazan/Brown, Lorenzo
+BC Uniks Kazan/Canaan, Isaiah
+BC Uniks Kazan/Hezonja, Mario
+Milano/Hall, Devon
+Milano/Melli, Nicolo
+Milano/Shields, Shavon
+Anadolu Efes/Beaubois, Rodrigue
+Anadolu Efes/Larkin, Shane
+Anadolu Efes/Micic, Vasilije
+Anadolu Efes/Moerman, Adrien Rene
+Anadolu Efes/Simon, Krunoslav
+BC Olympiakos Piraeus/Dorsey, Tyler
+BC Olympiakos Piraeus/Sloukas, Kostas
+BC Olympiakos Piraeus/Vezenkov, Sasha
+AS Monaco/Andjusic, Danilo
+AS Monaco/Hall, Donta
+AS Monaco/James, Mike
+Maccabi Tel-Aviv/Nunnally, James
+Maccabi Tel-Aviv/Wilbekin, Scott
+Maccabi Tel-Aviv/Williams, Derrick
+Maccabi Tel-Aviv/Zizic, Ante
+CSKA Moscow/Clyburn, William
+CSKA Moscow/Shengelia, Tornike
+CSKA Moscow/Shved, Alexey
+FC Barcelona/Calathes, Nick
+FC Barcelona/Davies, Brandon
+FC Barcelona/Mirotic, Nikola
+
+Detroit Pistons/Bey, Saddiq
+Detroit Pistons/Grant, Jerami
+Indiana/Brogdon, Malcolm
+Indiana/LeVert, Caris
+Indiana/Sabonis, Domantas
+Brooklyn/Durant, Kevin
+Brooklyn/Harden, James
+Los Angeles Lakers/Anthony, Carmelo
+Los Angeles Lakers/Davis, Anthony
+Los Angeles Lakers/Westbrook, Russell
+Milwaukee Bucks/Antetokounmpo, Giannis
+New Orleans/Ingram, Brandon
+New Orleans/Valanciunas, Jonas
+Houston/Wood, Christian
+Minnesota Timberwolves/Edwards, Anthony
+Minnesota Timberwolves/Russell, D`Angelo
+Minnesota Timberwolves/Towns, Karl-Anthony
+Oklahoma City/Dort, Luguentz
+Oklahoma City/Gilgeous Alexander, S.
+Sacramento Kings/Barnes, Harrison
+Sacramento Kings/Fox, De'Aaron
+Chicago/DeMar DeRozan
+Chicago/LaVine, Zach
+Dallas/Hardaway Jr., Tim
+Dallas/Porzingis, Kristaps
+Phoenix/Booker, Devin
+Phoenix/Paul, Chris
+Charlotte Hornets/Ball, LaMelo
+Charlotte Hornets/Bridges, Miles
+Charlotte Hornets/Rozier, Terry
+Washington/Beal, Bradley
+Washington/Kuzma, Kyle
+Atlanta/Collins, John
+Atlanta/Young, Trae
+Boston Celtics/Schroder, Dennis
+Boston Celtics/Tatum, Jayson
+New York/Barrett, RJ
+New York/Randle, Julius
+Orlando/Anthony, Cole
+Orlando/Wagner, Franz
+

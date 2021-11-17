@@ -42,6 +42,7 @@ Carter Jr. W. - Orlando
 Cavanaugh T. - Zalgiris
 Clarkson J. - Utah
 Collins J. - Atlanta
+Conley M. - Utah
 Cordinier I. - Virtus Bologna
 Costello M. - Baskonia
 Covington R. - Portland
@@ -63,6 +64,7 @@ Dobric O. - Crvena zvezda
 Doncic L. - Dallas
 Dorsey T. - Olympiacos
 Dort L. - Oklahoma
+Drummond A. - Philadelphia
 Duarte C. - Indiana
 Durant K. - Brooklyn
 Edwards A. - Minnesota
@@ -158,6 +160,7 @@ Melton D. - Memphis
 Mickey J. - Zenit Peters.
 Milaknis A. - Zalgiris
 Miller-McIntyre C. - Andorra
+Mills P. - Brooklyn
 Mitchell D. - Utah
 Mitoglou K. - Olimpia Milano
 Mobley E. - Cleveland

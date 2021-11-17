@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 
 op = webdriver.ChromeOptions()
 op.add_argument('headless')
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
+service = Service("C:\\Users\\Nikola\\Documents\\chromedriver\\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 driver.get('https://wwin.com/sports/#f/0/110/0/')
 driver.find_element(By.XPATH, "//span[@title='INTERNATIONAL - Euroleague']").click()

@@ -4,12 +4,23 @@ AS Monaco/James, Mike
 ASVEL Lyon Villeurbanne/Jones, Chris
 ASVEL Lyon Villeurbanne/Knight, Marcos
 ASVEL Lyon Villeurbanne/Okobo, Elie
+Alba Berlin/Da Silva, Oscar
+Alba Berlin/Lo, Maodo
+Alba Berlin/Sikma, Luke
+Anadolu Efes/Beaubois, Rodrigue
+Anadolu Efes/Larkin, Shane
+Anadolu Efes/Micic, Vasilije
+Anadolu Efes/Moerman, Adrien Rene
+Anadolu Efes/Simon, Krunoslav
 Atlanta/Bogdanovic, Bogdan
 Atlanta/Collins, John
 Atlanta/Young, Trae
 BC Olympiakos Piraeus/Dorsey, Tyler
 BC Olympiakos Piraeus/Sloukas, Kostas
 BC Olympiakos Piraeus/Vezenkov, Sasha
+BC Uniks Kazan/Brown, Lorenzo
+BC Uniks Kazan/Canaan, Isaiah
+BC Uniks Kazan/Hezonja, Mario
 Baskonia Vitoria-Gasteiz/Baldwin, Wade
 Baskonia Vitoria-Gasteiz/Fontecchio, Simone
 Baskonia Vitoria-Gasteiz/Giedraitis, Rokas
@@ -25,6 +36,9 @@ Boston Celtics/Tatum, Jayson
 Brooklyn/Durant, Kevin
 Brooklyn/Harden, James
 Brooklyn/LaMarcus Aldridge
+CSKA Moscow/Clyburn, William
+CSKA Moscow/Shengelia, Tornike
+CSKA Moscow/Shved, Alexey
 Charlotte Hornets/Ball, LaMelo
 Charlotte Hornets/Bridges, Miles
 Charlotte Hornets/Hayward, Gordon
@@ -72,6 +86,10 @@ LA Clippers/Zubac, Ivica
 Los Angeles Lakers/Anthony, Carmelo
 Los Angeles Lakers/Davis, Anthony
 Los Angeles Lakers/Westbrook, Russell
+Maccabi Tel-Aviv/Nunnally, James
+Maccabi Tel-Aviv/Wilbekin, Scott
+Maccabi Tel-Aviv/Williams, Derrick
+Maccabi Tel-Aviv/Zizic, Ante
 Memphis/Bane, Desmond
 Memphis/Jackson Jr., Jaren
 Memphis/Morant, Ja
@@ -98,6 +116,7 @@ Oklahoma City/Gilgeous Alexander, S.
 Orlando/Anthony, Cole
 Orlando/Bamba, Mo
 Orlando/Carter Jr., Wendell
+Orlando/Wagner, Franz
 Panathinaikos BC/Macon, Daryl
 Panathinaikos BC/Papagiannis, Georgios
 Panathinaikos BC/Papapetrou, Ioannis
@@ -132,6 +151,7 @@ Utah/Clarkson, Jordan
 Utah/Conley, Mike
 Utah/Gobert, Rudy
 Utah/Mitchell, Donovan
+Washington/Beal, Bradley
 Washington/Dinwiddie, Spencer
 Washington/Kuzma, Kyle
 Zalgiris/Cavanaugh, Tyler
