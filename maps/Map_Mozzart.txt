@@ -4,12 +4,14 @@ A.Gudaitis:Arturas Gudaitis
 A.Hollins:Austin Hollins
 A.Horford:Al Horford
 A.Milaknis:Arturas Milaknis
+A.Moerman:Adrien Moerman
 A.Polonara:Achille Polonara
 A.Poythress:Alex Poythress
 A.Rubit:Augustine Rubit
 A.Shved:Alexey Shved
 A.Vezenkov:Sasha
 A.Wiggins:Andrew Wiggins
+A.Zizic:Ante Zizic
 B.Baron:Billy Baron
 B.Beal:Bradley Beal
 B.Davies:Brandon Davies
@@ -41,6 +43,7 @@ D.Finney-Smith:Dorian Finney-Smith
 D.Fox:De'Aaron Fox
 D.Garland:Darius Garland
 D.Graham:Devonte' Graham
+D.Hall:Donta Hall
 D.Hilliard:Darrun Hilliard
 D.Lighty:David Lighty
 D.Lillard:Damian Lillard
@@ -56,19 +59,23 @@ D.Sabonis:Domantas Sabonis
 D.Schroder:Dennis Schroder
 D.Thomas:Deshaun Thomas
 D.White:Derrick White
+D.Williams:Derrick Williams
 E.Adebayo:Bam Adebayo
 E.Bledsoe:Eric Bledsoe
+E.Bryant:Elijah Bryant
 E.Fournier:Evan Fournier
 E.Gordon:Eric Gordon
 E.Mobley:Evan Mobley
 E.Mudiay:Emmanuel Mudiay
 E.Okobo:Elie Okobo
 E.Ulanovas:Edgaras Ulanovas
+F.Petrusev:Filip Petrusev
 F.VanVleet:Fred VanVleet
 F.Wagner:Franz Wagner
 G.Allen:Grayson Allen
 G.Antetokounmpo:Giannis Antetokounmpo
 G.Hayward:Gordon Hayward
+G.Lundberg:Iffe Lundberg
 G.Papagiannis:Georgios Papagiannis
 G.Trent:Gary Trent Jr.
 G.Yabusele:Guerschon Yabusele
@@ -108,10 +115,12 @@ J.Vesely:Jan Vesely
 Ja.Jackson:Jaren Jackson Jr.
 K.Caldwell-Pope:Kentavious Caldwell-Pope
 K.Durant:Kevin Durant
+K.Hines:Kyle Hines
 K.Johnson:Keldon Johnson
 K.Kuric:Kyle Kuric
 K.Kuzma:Kyle Kuzma
 K.Mitoglou:Konstantinos Mitoglou
+K.Papanikolaou:Kostas Papanikolaou
 K.Perry:Kendrick Perry
 K.Porter:Otto Porter Jr.
 K.Porzingis:Kristaps Porzingis
@@ -120,6 +129,7 @@ K.Sloukas:Kostas Sloukas
 K.Towns:Karl-Anthony Towns
 K.Walker:Kemba Walker
 L.Brown:Lorenzo Brown
+L.Datome:Luigi Datome
 L.Doncic:Luka Doncic
 L.Dort:Luguentz Dort
 L.Lekavicius:Lukas Lekavicius
@@ -134,6 +144,7 @@ M.Conley:Mike Conley
 M.Costello:Matthew Costello
 M.Delaney:Malcom Delaney
 M.Eriksson:Marcus Eriksson
+M.Fall:Moustapha Fall
 M.Guduric:Marko Guduric
 M.Harrell:Montrezl Harrell
 M.Hezonja:Mario Hezonja
@@ -164,6 +175,7 @@ O.Anunoby:OG Anunoby
 O.Dobric:Ognjen Dobric
 O.Kuzmic:Ognjen Kuzmic
 O.White:Okaro White
+O.da Silva:Oscar Da Silva
 P.George:Paul George
 P.Henry:Pierria Henry
 R.Barret:RJ Barrett
@@ -196,8 +208,10 @@ T.Hardaway:Tim Hardaway Jr.
 T.Herro:Tyler Herro
 T.Heurtel:Thomas Heurtel
 T.Maxey:Tyrese Maxey
+T.Pleiss:Tibor Pleiss
 T.Rozier:Terry Rozier
 T.Shengelia:Tornike Shengelia
+T.Walkup:Thomas Walkup
 T.Young:Trae Young
 V.Lucic:Vladimir Lucic
 V.Micic:Vasilije Micic
