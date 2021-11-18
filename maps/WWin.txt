@@ -337,3 +337,38 @@ New York/Randle, Julius
 Orlando/Anthony, Cole
 Orlando/Wagner, Franz
 
+Bayern Munich/Hilliard, Darrun
+Bayern Munich/Lucic, Vladimir
+Bayern Munich/Walden, Corey
+Panathinaikos BC/Macon, Daryl
+Panathinaikos BC/Papagiannis, Georgios
+Panathinaikos BC/Papapetrou, Ioannis
+Real Madrid/Heurtel, Thomas
+Real Madrid/Tavares, Walter
+Real Madrid/Yabusele, Guerschon
+
+LA Clippers/Bledsoe, Eric
+LA Clippers/George, Paul
+LA Clippers/Jackson, Reggie
+LA Clippers/Zubac, Ivica
+Memphis/Bane, Desmond
+Memphis/Jackson Jr., Jaren
+Memphis/Morant, Ja
+Minnesota Timberwolves/Edwards, Anthony
+Minnesota Timberwolves/Russell, D`Angelo
+Minnesota Timberwolves/Towns, Karl-Anthony
+San Antonio/Johnson, Keldon
+San Antonio/Murray, Dejounte
+Denver/Gordon, Aaron
+Denver/Jokic, Nikola
+Philadelphia/Curry, Seth
+Philadelphia/Harris, Tobias
+Philadelphia/Maxey, Tyrese
+Toronto/Anunoby, OG
+Toronto/Siakam, Pascal
+Toronto/VanVleet, Fred
+Utah/Bogdanovic, Bojan
+Utah/Conley, Mike
+Utah/Gobert, Rudy
+Utah/Mitchell, Donovan
+

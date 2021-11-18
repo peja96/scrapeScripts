@@ -1,7 +1,10 @@
+Adrien Moerman (Anadolu ):Adrien Moerman
 Al Horford (BOS):Al Horford
 Aleksandar Vezenkov (Olympiak):Aleksandar Vezenkov
 Andrew Wiggins (GSW):Andrew Wiggins
+Ante Zizic (Maccabi ):Ante Zizic
 Anthony Davis (LAL):Anthony Davis
+Anthony Edwards (MIN):Anthony Edwards
 Augustine Rubit (Bay):Augustine Rubit
 Billy Baron (Zenit St):Billy Baron
 Bogdan Bogdanovic (ATL):Bogdan Bogdanovic
@@ -18,7 +21,9 @@ Christian Wood (HOU):Christian Wood
 Christopher Jones (Asvel Ly):Christopher Jones
 Cole Anthony (ORL):Cole Anthony
 Corey Walden (Bay):Corey Walden
+DAngelo Russell (MIN):DAngelo Russell
 Damian Lillard (POR):Damian Lillard
+Danilo Andjusic (AS Monac):Danilo Andjusic
 Darius Bazley (OKC):Darius Bazley
 Darius Garland (CLE):Darius Garland
 Darrun Hilliard (Bay):Darrun Hilliard
@@ -27,12 +32,14 @@ DeAaron Fox (SAC):DeAaron Fox
 DeMar DeRozan (CHI):DeMar DeRozan
 Dejounte Murray (SAS):Dejounte Murray
 Dennis Schroder (BOS):Dennis Schroder
+Derrick Williams (Maccabi ):Derrick Williams
 Deshaun Thomas (Bay):Deshaun Thomas
 Desmond Bane (MEM):Desmond Bane
 Devin Booker (Fenerbah):Devin Booker
 Devin Booker (PHX):Devin Booker
 Devon Hall (Milano):Devon Hall
 Devonte Graham (NOP):Devonte Graham
+Dillon Brooks (MEM):Dillon Brooks
 Domantas Sabonis (IND):Domantas Sabonis
 Donovan Mitchell (UTA):Donovan Mitchell
 Donta Hall (AS Monac):Donta Hall
@@ -48,10 +55,13 @@ Gordon Hayward (CHA):Gordon Hayward
 Guerschon Yabusele (Real Mad):Guerschon Yabusele
 Harrison Barnes (SAC):Harrison Barnes
 Ioannis Papapetrou (Panathin):Ioannis Papapetrou
+Isaiah Canaan (Uni):Isaiah Canaan
 Ja Morant (MEM):Ja Morant
 James Harden (BKN):James Harden
+James Nunnally (Maccabi ):James Nunnally
 Jan Vesely (Fenerbah):Jan Vesely
 Janis Strelnieks (Zalgiris):Janis Strelnieks
+Jaren Jackson Jr. (MEM):Jaren Jackson Jr.
 Jarrett Allen (CLE):Jarrett Allen
 Jayson Tatum (BOS):Jayson Tatum
 Jerami Grant (DET):Jerami Grant
@@ -65,17 +75,24 @@ Josh Nebo (Zalgiris):Josh Nebo
 Jrue Holiday (MIL):Jrue Holiday
 Julius Randle (NYK):Julius Randle
 Jusuf Nurkic (POR):Jusuf Nurkic
+Karl-Anthony Towns (MIN):Karl-Anthony Towns
 Keldon Johnson (SAS):Keldon Johnson
 Kevin Durant (BKN):Kevin Durant
 Kevin Porter Jr. (HOU):Kevin Porter Jr.
 Kostas Sloukas (Olympiak):Kostas Sloukas
+Krunoslav Simon (Anadolu ):Krunoslav Simon
 Kyle Kuzma (WAS):Kyle Kuzma
 LaMelo Ball (CHA):LaMelo Ball
+Lorenzo Brown (Uni):Lorenzo Brown
 Luguentz Dort (OKC):Luguentz Dort
 Luigi Datome (Fenerbah):Luigi Datome
+Luigi Datome (Milano):Luigi Datome
 Lukas Lekavicius (Zalgiris):Lukas Lekavicius
+Luke Sikma (Alb):Luke Sikma
 Malcolm Brogdon (IND):Malcolm Brogdon
+Maodo Lo (Alb):Maodo Lo
 Marcos Knight (Asvel Ly):Marcos Knight
+Mario Hezonja (Uni):Mario Hezonja
 Marko Guduric (Fenerbah):Marko Guduric
 Mike Conley (UTA):Mike Conley
 Mike James (AS Monac):Mike James
@@ -91,11 +108,14 @@ Norman Powell (POR):Norman Powell
 OG Anunoby (TOR):OG Anunoby
 Ognjen Dobric (Crvena z):Ognjen Dobric
 Ognjen Kuzmic (Crvena z):Ognjen Kuzmic
+Oscar da Silva (Alb):Oscar da Silva
+Pascal Siakam (TOR):Pascal Siakam
 Paul George (LAC):Paul George
 RJ Barrett (NYK):RJ Barrett
 Reggie Jackson (LAC):Reggie Jackson
 Richaun Holmes (SAC):Richaun Holmes
 Ricky Rubio (CLE):Ricky Rubio
+Rodrigue Beaubois (Anadolu ):Rodrigue Beaubois
 Rudy Gobert (UTA):Rudy Gobert
 Russell Westbrook (LAL):Russell Westbrook
 Saddiq Bey (DET):Saddiq Bey
@@ -103,15 +123,18 @@ Scottie Barnes (TOR):Scottie Barnes
 Sergio Llull (Real Mad):Sergio Llull
 Seth Curry (PHI):Seth Curry
 Shai Gilgeous-Alexander (OKC):Shai Gilgeous-Alexander
+Shane Larkin (Anadolu ):Shane Larkin
 Shavon Shields (Milano):Shavon Shields
 Spencer Dinwiddie (WAS):Spencer Dinwiddie
 Stephen Curry (GSW):Stephen Curry
 Tai Webster (Zalgiris):Tai Webster
 Terry Rozier (CHA):Terry Rozier
 Thomas Heurtel (Real Mad):Thomas Heurtel
+Tibor Pleiss (Anadolu ):Tibor Pleiss
 Tobias Harris (PHI):Tobias Harris
 Tyler Cavanaugh (Zalgiris):Tyler Cavanaugh
 Tyler Dorsey (Olympiak):Tyler Dorsey
+Vasilije Micic (Anadolu ):Vasilije Micic
 Vladimir Lucic (Bay):Vladimir Lucic
 Walter Tavares (Real Mad):Walter Tavares
 Will Barton (DEN):Will Barton

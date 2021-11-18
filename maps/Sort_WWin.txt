@@ -56,6 +56,7 @@ Dallas/Doncic, Luka
 Dallas/Hardaway Jr., Tim
 Dallas/Porzingis, Kristaps
 Denver/Barton, Will
+Denver/Gordon, Aaron
 Denver/Jokic, Nikola
 Detroit Pistons/Bey, Saddiq
 Detroit Pistons/Cunningham, Cade
@@ -80,6 +81,7 @@ Indiana/LeVert, Caris
 Indiana/Sabonis, Domantas
 Indiana/Turner, Myles
 LA Clippers/Batum, Nicolas
+LA Clippers/Bledsoe, Eric
 LA Clippers/George, Paul
 LA Clippers/Jackson, Reggie
 LA Clippers/Zubac, Ivica

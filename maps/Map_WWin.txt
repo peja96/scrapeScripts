@@ -56,6 +56,7 @@ Dallas/Doncic, Luka:Luka Doncic
 Dallas/Hardaway Jr., Tim:Tim Hardaway Jr.
 Dallas/Porzingis, Kristaps:Kristaps Porzingis
 Denver/Barton, Will:Will Barton
+Denver/Gordon, Aaron:Aaron Gordon
 Denver/Jokic, Nikola:Nikola Jokic
 Detroit Pistons/Bey, Saddiq:Saddiq Bey
 Detroit Pistons/Cunningham, Cade:Cade Cunningham
@@ -80,6 +81,7 @@ Indiana/LeVert, Caris:Caris LeVert
 Indiana/Sabonis, Domantas:Domantas Sabonis
 Indiana/Turner, Myles:Myles Turner
 LA Clippers/Batum, Nicolas:Nicolas Batum
+LA Clippers/Bledsoe, Eric:Eric Bledsoe
 LA Clippers/George, Paul:Paul George
 LA Clippers/Jackson, Reggie:Reggie Jackson
 LA Clippers/Zubac, Ivica:Ivica Zubac
