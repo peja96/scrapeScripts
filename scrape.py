@@ -64,6 +64,7 @@ def mozzartNba():
         driver.close()
     except Exception as e:
         print("MOZZART - NBA ERROR")
+        logging.error(e)
 
 
 def mozzartEL():
@@ -114,22 +115,15 @@ def maxMetNBA():
             date = row.find_elements(By.CLASS_NAME, "f-09")[1].text
             player_name = row.find_element(By.CLASS_NAME, "cc-w-teams").text
             margin = row.find_element(By.CLASS_NAME, "border").text
-            underBet = row.find_element(By.CLASS_NAME, "ng-binding").text
-            list = player_name.split("-")
-            if (len(list) == 2):
-                length = len((player_name.split("-")[0]))
-                name = player_name[0:length - 1]
-            elif (len(list) == 3):
-                length = len((list[0] + list[1]))
-                name = player_name[0:length]
-            print(name, margin, date)
-            if (name != 'Booker D.'):
-                bookmaker_list.append(
-                Bookmaker("MaxBet", float(margin), float("1.85"),
-                          float("1.85"), date, name))
+            underBet = row.find_elements(By.CLASS_NAME, "main-odd")[3].find_element(By.CLASS_NAME, "ng-binding").text
+            overBet = row.find_elements(By.CLASS_NAME, "main-odd")[4].find_element(By.CLASS_NAME, "ng-binding").text
+            print(date, player_name, overBet, underBet, margin)
+            bookmaker_list.append(Bookmaker("MaxBetNBA", float(margin), overBet,
+                          underBet, date, player_name))
         driver.close()
     except Exception as e:
         print("MAXBET - NBA ERROR")
+        logging.error(e)
 
 
 def maxBetEL():
@@ -157,10 +151,10 @@ def maxBetEL():
             list = player_name.split("-")
             length = len(list[0])
             name = player_name[0: length-1]
-            print(time_of_game, name, overBet, underBet, margin)
+            print(time_of_game, player_name, overBet, underBet, margin)
             bookmaker_list.append(
                 Bookmaker("MaxBet", float(margin), float(overBet),
-                          float(underBet), time_of_game, name))
+                          float(underBet), time_of_game, player_name))
         driver.close()
     except Exception as e:
         print("MAXBET - el ERROR")
@@ -272,6 +266,27 @@ if __name__ == "__main__":
         # time.sleep(10)
         #  AMSportNBA()
         # time.sleep(10)
+        mozzartNba()
+        time.sleep(10)
+        json_list = [ob.__dict__ for ob in bookmaker_list]
+        producer.send('EcTopic', value=json_list)
+        print(json_list)
+        bookmaker_list.clear()
+        json_list.clear()
+        maxMetNBA()
+        time.sleep(10)
+        json_list = [ob.__dict__ for ob in bookmaker_list]
+        producer.send('EcTopic', value=json_list)
+        print(json_list)
+        bookmaker_list.clear()
+        json_list.clear()
+        maxBetEL()
+        time.sleep(10)
+        json_list = [ob.__dict__ for ob in bookmaker_list]
+        producer.send('EcTopic', value=json_list)
+        print(json_list)
+        bookmaker_list.clear()
+        json_list.clear()
         mozzartEL()
         time.sleep(10)
         json_list = [ob.__dict__ for ob in bookmaker_list]
@@ -281,7 +296,7 @@ if __name__ == "__main__":
         json_list.clear()
         # bookmaker_list.clear()
         # json_list.clear()
-        # maxBetEL()
+        #
         # time.sleep(10)
         # json_list = [ob.__dict__ for ob in bookmaker_list]
         # producer.send('EcTopic', value=json_list)

@@ -24,4 +24,8 @@ for row in rows:
     playerName = pairs.find_elements(By.TAG_NAME, "span")[1].text
     part2 = row.find_element(By.CLASS_NAME, "part2")
     spans = part2.find_elements(By.TAG_NAME, "span")
-    print(time, playerName, spans[2].text, spans[4].text, row.find_element(By.CLASS_NAME, "odds").text)
+    underBet = row.find_element(By.XPATH,
+                                "//div[@title='Navedeni igrač će postići manji broj poena od navedene margine']").text
+    overBet = row.find_element(By.XPATH,
+                               "//div[@title='Navedeni igrač će postići veći broj poena od navedene margine']").text
+    print(time, playerName, underBet.split('\n')[1], overBet.split('\n')[1], row.find_element(By.CLASS_NAME, "odds").text)
