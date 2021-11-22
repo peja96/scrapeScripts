@@ -4,12 +4,15 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from dotenv import load_dotenv
+from pathlib import Path
+import os
 
 op = webdriver.ChromeOptions()
-#op.add_argument('headless')
-op.add_argument('enable-popup-blocking')
-
-service = Service("C:\\Users\\Nikola\\Documents\\chromedriver\\chromedriver.exe")
+op.add_argument('headless')
+dotenv_path = Path('env.env')
+load_dotenv(dotenv_path=dotenv_path)
+service = Service(os.environ.get('CHROMEDRIVER'))
 driver = webdriver.Chrome(service=service)
 driver.get('https://www.lobbet.me/ibet-web-client/#/home/leaguesWithMatches')
 driver.implicitly_wait(10)
