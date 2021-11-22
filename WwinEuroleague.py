@@ -3,18 +3,21 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from dotenv import load_dotenv
+from pathlib import Path
+import os
 
 op = webdriver.ChromeOptions()
 op.add_argument('headless')
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
+dotenv_path = Path('env.env')
+load_dotenv(dotenv_path=dotenv_path)
+service = Service(os.environ.get('CHROMEDRIVER'))
 driver = webdriver.Chrome(service=service)
 driver.get('https://wwin.com/sports/#f/0/110/0/')
-driver.find_element(By.ID, "ContentBody_ctl01_ucOffer_ucMenu_ctl26_favTop").click()
+driver.find_element(By.XPATH, "//span[@title='INTERNATIONAL - Euroleague']").click()
 driver.implicitly_wait(10)
 time.sleep(1)
-elements = driver.find_elements(By.ID, "market_6010_19")
-print(len(elements))
-elements[0].click()
+driver.find_element(By.XPATH, "//span[text()[contains(., 'Number of Points a Player')]]").click()
 time.sleep(1)
 driver.implicitly_wait(10)
 element = driver.find_element(By.ID, "6010112014")
@@ -24,8 +27,9 @@ for row in rows:
     try:
         data = row.find_elements(By.TAG_NAME, "td")
         if len(data) == 3:
-            for field in data:
-                print(field.text)
+            print(str(data[0].text).split('(')[0][:-1])
+            # for field in data:
+            #     print(field.text)
     except:
         pass
 

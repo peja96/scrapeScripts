@@ -4,12 +4,15 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from dotenv import load_dotenv
+from pathlib import Path
+import os
 
 op = webdriver.ChromeOptions()
-#op.add_argument('headless')
-op.add_argument('enable-popup-blocking')
-
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
+op.add_argument('headless')
+dotenv_path = Path('env.env')
+load_dotenv(dotenv_path=dotenv_path)
+service = Service(os.environ.get('CHROMEDRIVER'))
 driver = webdriver.Chrome(service=service)
 driver.get('https://www.lobbet.me/ibet-web-client/#/home/leaguesWithMatches')
 driver.implicitly_wait(10)
@@ -19,7 +22,7 @@ actions.move_by_offset(5, 5).click().perform()
 driver.execute_script("window.scrollTo(0, 300)")
 time.sleep(2)
 driver.implicitly_wait(10)
-element = driver.find_element(By.XPATH, '//*[@id="top-view"]/div[1]/div[2]/div[2]/div/div[17]/div[1]/div[2]')
+element = driver.find_element(By.XPATH, "//*[text()[contains(., 'Specijal Košarka')]]")
 driver.implicitly_wait(10)
 element.click()
 poeni = driver.find_element(By.XPATH, "//*[text()[contains(., 'Poeni')]]")
@@ -36,4 +39,4 @@ for row in rows:
   under = row.find_elements(By.CLASS_NAME, "tip-with-odd")[1].text
   over = row.find_elements(By.CLASS_NAME, "tip-with-odd")[2].text
 
-  print(date, player_name, margin, under, over)
+  print(player_name)

@@ -1,0 +1,374 @@
+Toronto/Anunoby, OG
+Toronto/Barnes, Scottie
+Toronto/Trent Jr., Gary
+Toronto/VanVleet, Fred
+Indiana/Brogdon, Malcolm
+Indiana/Duarte, Chris
+Indiana/Sabonis, Domantas
+Utah/Clarkson, Jordan
+Utah/Conley, Mike
+Utah/Gobert, Rudy
+Utah/Mitchell, Donovan
+LA Clippers/Batum, Nicolas
+LA Clippers/George, Paul
+LA Clippers/Jackson, Reggie
+Charlotte Hornets/Ball, LaMelo
+Charlotte Hornets/Bridges, Miles
+Charlotte Hornets/Rozier, Terry
+New York/Barrett, RJ
+New York/Fournier, Evan
+New York/Randle, Julius
+New York/Walker, Kemba
+Boston Celtics/Schroder, Dennis
+Boston Celtics/Smart, Marcus
+Boston Celtics/Tatum, Jayson
+Cleveland/Allen, Jarrett
+Cleveland/Garland, Darius
+Cleveland/Mobley, Evan
+Detroit Pistons/Bey, Saddiq
+Detroit Pistons/Cunningham, Cade
+Detroit Pistons/Grant, Jerami
+Milwaukee Bucks/Antetokounmpo, Giannis
+Milwaukee Bucks/Holiday, Jrue
+Milwaukee Bucks/Portis, Bobby
+Brooklyn/Durant, Kevin
+Brooklyn/Harden, James
+Brooklyn/LaMarcus Aldridge
+Houston/Green, Jalen
+Houston/Jae Sean Tate
+Houston/Porter Jr., Kevin
+Houston/Wood, Christian
+Memphis/Bane, Desmond
+Memphis/Jackson Jr., Jaren
+Memphis/Morant, Ja
+Oklahoma City/Bazley, Darius
+Oklahoma City/Dort, Luguentz
+Oklahoma City/Gilgeous Alexander, S.
+Phoenix/Booker, Devin
+Phoenix/Bridges, Mikal
+Phoenix/Paul, Chris
+Portland/Lillard, Damian
+Portland/McCollum, CJ
+Portland/Nurkic, Jusuf
+Sacramento Kings/Barnes, Harrison
+Sacramento Kings/Fox, De'Aaron
+Sacramento Kings/Hield, Buddy
+Dallas/Doncic, Luka
+Dallas/Hardaway Jr., Tim
+Dallas/Porzingis, Kristaps
+San Antonio/Derrick White
+San Antonio/McDermott, Doug
+Chicago/Ball, Lonzo
+Chicago/DeMar DeRozan
+Chicago/LaVine, Zach
+Golden State Warriors/Curry, Stephen
+Golden State Warriors/Poole, Jordan
+Golden State Warriors/Wiggins, Andrew
+Los Angeles Lakers/Anthony, Carmelo
+Los Angeles Lakers/Davis, Anthony
+Los Angeles Lakers/Westbrook, Russell
+Minnesota Timberwolves/Edwards, Anthony
+Minnesota Timberwolves/Russell, D`Angelo
+Minnesota Timberwolves/Towns, Karl-Anthony
+Atlanta/Bogdanovic, Bogdan
+Atlanta/Collins, John
+Atlanta/Young, Trae
+Denver/Barton, Will
+Denver/Jokic, Nikola
+
+Indiana/Brogdon, Malcolm
+Indiana/Sabonis, Domantas
+Indiana/Turner, Myles
+Memphis/Jackson Jr., Jaren
+Memphis/Morant, Ja
+New Orleans/Graham, Devonte
+New Orleans/Valanciunas, Jonas
+Philadelphia/Curry, Seth
+Philadelphia/Harris, Tobias
+Philadelphia/Maxey, Tyrese
+Detroit Pistons/Bey, Saddiq
+Detroit Pistons/Grant, Jerami
+Toronto/Anunoby, OG
+Toronto/Siakam, Pascal
+Toronto/Trent Jr., Gary
+Toronto/VanVleet, Fred
+Boston Celtics/Schroder, Dennis
+Boston Celtics/Tatum, Jayson
+Cleveland/Allen, Jarrett
+Cleveland/Garland, Darius
+LA Clippers/George, Paul
+LA Clippers/Jackson, Reggie
+LA Clippers/Zubac, Ivica
+Minnesota Timberwolves/Edwards, Anthony
+Minnesota Timberwolves/Russell, D`Angelo
+Minnesota Timberwolves/Towns, Karl-Anthony
+Orlando/Anthony, Cole
+Orlando/Carter Jr., Wendell
+Utah/Bogdanovic, Bojan
+Utah/Conley, Mike
+Utah/Gobert, Rudy
+Utah/Mitchell, Donovan
+
+Los Angeles Lakers/Anthony, Carmelo
+Los Angeles Lakers/Davis, Anthony
+Los Angeles Lakers/Westbrook, Russell
+San Antonio/Murray, Dejounte
+Brooklyn/Durant, Kevin
+Brooklyn/Harden, James
+Charlotte Hornets/Ball, LaMelo
+Charlotte Hornets/Bridges, Miles
+Charlotte Hornets/Hayward, Gordon
+Charlotte Hornets/Rozier, Terry
+Golden State Warriors/Curry, Stephen
+Golden State Warriors/Poole, Jordan
+Golden State Warriors/Wiggins, Andrew
+Houston/Porter Jr., Kevin
+Houston/Wood, Christian
+Oklahoma City/Dort, Luguentz
+Oklahoma City/Gilgeous Alexander, S.
+Phoenix/Booker, Devin
+Phoenix/Paul, Chris
+Denver/Barton, Will
+Denver/Jokic, Nikola
+Portland/McCollum, CJ
+Portland/Nurkic, Jusuf
+Portland/Powell, Norman
+Chicago/DeMar DeRozan
+Chicago/LaVine, Zach
+LA Clippers/George, Paul
+LA Clippers/Jackson, Reggie
+Atlanta/Collins, John
+Atlanta/Young, Trae
+Milwaukee Bucks/Antetokounmpo, Giannis
+Milwaukee Bucks/Holiday, Jrue
+Milwaukee Bucks/Portis, Bobby
+
+Boston Celtics/Horford, Al
+Boston Celtics/Tatum, Jayson
+Cleveland/Allen, Jarrett
+Cleveland/Garland, Darius
+New Orleans/Ingram, Brandon
+New Orleans/Valanciunas, Jonas
+Sacramento Kings/Barnes, Harrison
+Sacramento Kings/Fox, De'Aaron
+Washington/Dinwiddie, Spencer
+Washington/Kuzma, Kyle
+Indiana/Brogdon, Malcolm
+Indiana/LeVert, Caris
+Indiana/Sabonis, Domantas
+New York/Barrett, RJ
+New York/Randle, Julius
+Dallas/Doncic, Luka
+Dallas/Hardaway Jr., Tim
+Dallas/Porzingis, Kristaps
+Denver/Jokic, Nikola
+Houston/Porter Jr., Kevin
+Houston/Wood, Christian
+Memphis/Jackson Jr., Jaren
+Memphis/Morant, Ja
+Minnesota Timberwolves/Edwards, Anthony
+Minnesota Timberwolves/Towns, Karl-Anthony
+Phoenix/Booker, Devin
+Phoenix/Paul, Chris
+Chicago/DeMar DeRozan
+Chicago/LaVine, Zach
+Los Angeles Lakers/Anthony, Carmelo
+Los Angeles Lakers/Davis, Anthony
+Los Angeles Lakers/Westbrook, Russell
+Atlanta/Bogdanovic, Bogdan
+Atlanta/Collins, John
+Atlanta/Young, Trae
+Orlando/Anthony, Cole
+Orlando/Bamba, Mo
+Oklahoma City/Dort, Luguentz
+Oklahoma City/Gilgeous Alexander, S.
+
+Brooklyn/Durant, Kevin
+Brooklyn/Harden, James
+Golden State Warriors/Curry, Stephen
+Golden State Warriors/Poole, Jordan
+Golden State Warriors/Wiggins, Andrew
+Philadelphia/Curry, Seth
+Philadelphia/Harris, Tobias
+Philadelphia/Maxey, Tyrese
+Utah/Bogdanovic, Bojan
+Utah/Gobert, Rudy
+Utah/Mitchell, Donovan
+LA Clippers/George, Paul
+LA Clippers/Jackson, Reggie
+San Antonio/Johnson, Keldon
+San Antonio/Murray, Dejounte
+
+Baskonia Vitoria-Gasteiz/Baldwin, Wade
+Baskonia Vitoria-Gasteiz/Fontecchio, Simone
+Baskonia Vitoria-Gasteiz/Giedraitis, Rokas
+FC Barcelona/Calathes, Nick
+FC Barcelona/Davies, Brandon
+FC Barcelona/Mirotic, Nikola
+BC Olympiakos Piraeus/Dorsey, Tyler
+BC Olympiakos Piraeus/Sloukas, Kostas
+BC Olympiakos Piraeus/Vezenkov, Sasha
+Zenit SP/Baron, Billy
+Zenit SP/Loyd, Jordan
+Zenit SP/Mickey, Jordan
+Fenerbahce Istanbul/Booker, Devin
+Fenerbahce Istanbul/De Colo, Nando
+Fenerbahce Istanbul/Guduric, Marko
+Fenerbahce Istanbul/Vesely, Jan
+Milano/Datome, Luigi
+Milano/Hall, Devon
+Milano/Melli, Nicolo
+Milano/Shields, Shavon
+AS Monaco/Andjusic, Danilo
+AS Monaco/Hall, Donta
+AS Monaco/James, Mike
+Bayern Munich/Hilliard, Darrun
+Bayern Munich/Lucic, Vladimir
+Bayern Munich/Rubit, Augustine
+Bayern Munich/Thomas, Deshaun
+Bayern Munich/Walden, Corey
+Real Madrid/Heurtel, Thomas
+Real Madrid/Tavares, Walter
+Real Madrid/Yabusele, Guerschon
+Zalgiris/Lekavicius, Lukas
+Zalgiris/Nebo, Josh
+Zalgiris/Strelnieks, Janis
+
+Panathinaikos BC/Macon, Daryl
+Panathinaikos BC/Papagiannis, Georgios
+Panathinaikos BC/Papapetrou, Ioannis
+Zalgiris/Cavanaugh, Tyler
+Zalgiris/Lekavicius, Lukas
+Zalgiris/Strelnieks, Janis
+Zalgiris/Webster, Tai
+ASVEL Lyon Villeurbanne/Jones, Chris
+ASVEL Lyon Villeurbanne/Knight, Marcos
+ASVEL Lyon Villeurbanne/Okobo, Elie
+Real Madrid/Heurtel, Thomas
+Real Madrid/Llull, Sergio
+Real Madrid/Tavares, Walter
+Real Madrid/Yabusele, Guerschon
+Baskonia Vitoria-Gasteiz/Baldwin, Wade
+Baskonia Vitoria-Gasteiz/Fontecchio, Simone
+Baskonia Vitoria-Gasteiz/Giedraitis, Rokas
+Bayern Munich/Hilliard, Darrun
+Bayern Munich/Lucic, Vladimir
+Bayern Munich/Thomas, Deshaun
+Bayern Munich/Walden, Corey
+Crvena Zvezda/Dobric, Ognjen
+Crvena Zvezda/Kalinic, Nikola
+Crvena Zvezda/Wolters, Nate
+Fenerbahce Istanbul/Booker, Devin
+Fenerbahce Istanbul/De Colo, Nando
+Fenerbahce Istanbul/Vesely, Jan
+
+Alba Berlin/Da Silva, Oscar
+Alba Berlin/Lo, Maodo
+Alba Berlin/Sikma, Luke
+Zenit SP/Baron, Billy
+Zenit SP/Loyd, Jordan
+Zenit SP/Mickey, Jordan
+BC Uniks Kazan/Brown, Lorenzo
+BC Uniks Kazan/Canaan, Isaiah
+BC Uniks Kazan/Hezonja, Mario
+Milano/Hall, Devon
+Milano/Melli, Nicolo
+Milano/Shields, Shavon
+Anadolu Efes/Beaubois, Rodrigue
+Anadolu Efes/Larkin, Shane
+Anadolu Efes/Micic, Vasilije
+Anadolu Efes/Moerman, Adrien Rene
+Anadolu Efes/Simon, Krunoslav
+BC Olympiakos Piraeus/Dorsey, Tyler
+BC Olympiakos Piraeus/Sloukas, Kostas
+BC Olympiakos Piraeus/Vezenkov, Sasha
+AS Monaco/Andjusic, Danilo
+AS Monaco/Hall, Donta
+AS Monaco/James, Mike
+Maccabi Tel-Aviv/Nunnally, James
+Maccabi Tel-Aviv/Wilbekin, Scott
+Maccabi Tel-Aviv/Williams, Derrick
+Maccabi Tel-Aviv/Zizic, Ante
+CSKA Moscow/Clyburn, William
+CSKA Moscow/Shengelia, Tornike
+CSKA Moscow/Shved, Alexey
+FC Barcelona/Calathes, Nick
+FC Barcelona/Davies, Brandon
+FC Barcelona/Mirotic, Nikola
+
+Detroit Pistons/Bey, Saddiq
+Detroit Pistons/Grant, Jerami
+Indiana/Brogdon, Malcolm
+Indiana/LeVert, Caris
+Indiana/Sabonis, Domantas
+Brooklyn/Durant, Kevin
+Brooklyn/Harden, James
+Los Angeles Lakers/Anthony, Carmelo
+Los Angeles Lakers/Davis, Anthony
+Los Angeles Lakers/Westbrook, Russell
+Milwaukee Bucks/Antetokounmpo, Giannis
+New Orleans/Ingram, Brandon
+New Orleans/Valanciunas, Jonas
+Houston/Wood, Christian
+Minnesota Timberwolves/Edwards, Anthony
+Minnesota Timberwolves/Russell, D`Angelo
+Minnesota Timberwolves/Towns, Karl-Anthony
+Oklahoma City/Dort, Luguentz
+Oklahoma City/Gilgeous Alexander, S.
+Sacramento Kings/Barnes, Harrison
+Sacramento Kings/Fox, De'Aaron
+Chicago/DeMar DeRozan
+Chicago/LaVine, Zach
+Dallas/Hardaway Jr., Tim
+Dallas/Porzingis, Kristaps
+Phoenix/Booker, Devin
+Phoenix/Paul, Chris
+Charlotte Hornets/Ball, LaMelo
+Charlotte Hornets/Bridges, Miles
+Charlotte Hornets/Rozier, Terry
+Washington/Beal, Bradley
+Washington/Kuzma, Kyle
+Atlanta/Collins, John
+Atlanta/Young, Trae
+Boston Celtics/Schroder, Dennis
+Boston Celtics/Tatum, Jayson
+New York/Barrett, RJ
+New York/Randle, Julius
+Orlando/Anthony, Cole
+Orlando/Wagner, Franz
+
+Bayern Munich/Hilliard, Darrun
+Bayern Munich/Lucic, Vladimir
+Bayern Munich/Walden, Corey
+Panathinaikos BC/Macon, Daryl
+Panathinaikos BC/Papagiannis, Georgios
+Panathinaikos BC/Papapetrou, Ioannis
+Real Madrid/Heurtel, Thomas
+Real Madrid/Tavares, Walter
+Real Madrid/Yabusele, Guerschon
+
+LA Clippers/Bledsoe, Eric
+LA Clippers/George, Paul
+LA Clippers/Jackson, Reggie
+LA Clippers/Zubac, Ivica
+Memphis/Bane, Desmond
+Memphis/Jackson Jr., Jaren
+Memphis/Morant, Ja
+Minnesota Timberwolves/Edwards, Anthony
+Minnesota Timberwolves/Russell, D`Angelo
+Minnesota Timberwolves/Towns, Karl-Anthony
+San Antonio/Johnson, Keldon
+San Antonio/Murray, Dejounte
+Denver/Gordon, Aaron
+Denver/Jokic, Nikola
+Philadelphia/Curry, Seth
+Philadelphia/Harris, Tobias
+Philadelphia/Maxey, Tyrese
+Toronto/Anunoby, OG
+Toronto/Siakam, Pascal
+Toronto/VanVleet, Fred
+Utah/Bogdanovic, Bojan
+Utah/Conley, Mike
+Utah/Gobert, Rudy
+Utah/Mitchell, Donovan
+
