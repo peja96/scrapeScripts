@@ -10,7 +10,7 @@ chrome_options.add_argument('--headless')
 chrome_options.add_argument('--disable-gpu')
 chrome_options.add_argument('--disable-dev-shm-usage')
 chrome_options.add_experimental_option('w3c', True)
-service = Service("C:\\Users\\radet\\chromedriver_win32\\chromedriver.exe")
+service = Service("C:\\Users\\RadeToprek\\Documents\\chromedriver_win32\\chromedriver.exe")
 driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.get('https://www.mozzartbet.ba/bs/kladjenje-2018#/?sid=2')
 driver.find_element(By.XPATH, "//*[text()[contains(., 'NBA  -  IGRAČI')]]").click()
@@ -24,4 +24,7 @@ for row in rows:
     playerName = pairs.find_elements(By.TAG_NAME, "span")[1].text
     part2 = row.find_element(By.CLASS_NAME, "part2")
     spans = part2.find_elements(By.TAG_NAME, "span")
-    print(time, playerName, spans[2].text, spans[4].text, row.find_element(By.CLASS_NAME, "odds").text)
+    underBet = part2.find_elements(By.CLASS_NAME, "odd-font")[0].text
+    overBet = part2.find_elements(By.CLASS_NAME, "odd-font")[1].text
+    margin = row.find_element(By.CLASS_NAME, "odds").text
+    print(time, playerName, underBet, overBet, margin)

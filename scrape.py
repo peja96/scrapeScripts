@@ -16,7 +16,7 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 chrome_options.add_experimental_option('w3c', True)
 # path = os.environ['CHROMEDRIVER_DIR']
 # service = Service(executable_path=path + "/chromedriver")
-service = Service("C:\\Users\\radet\\chromedriver_win32\\chromedriver.exe")
+service = Service("C:\\Users\\RadeToprek\\Documents\\chromedriver_win32\\chromedriver.exe")
 logging.basicConfig(filename="error.log", level=logging.ERROR, format='%(asctime)s %(levelname)s %(name)s %(message)s')
 logger = logging.getLogger(__name__)
 bookmaker_list = []
@@ -114,19 +114,12 @@ def maxMetNBA():
             date = row.find_elements(By.CLASS_NAME, "f-09")[1].text
             player_name = row.find_element(By.CLASS_NAME, "cc-w-teams").text
             margin = row.find_element(By.CLASS_NAME, "border").text
-            underBet = row.find_element(By.CLASS_NAME, "ng-binding").text
-            list = player_name.split("-")
-            if (len(list) == 2):
-                length = len((player_name.split("-")[0]))
-                name = player_name[0:length - 1]
-            elif (len(list) == 3):
-                length = len((list[0] + list[1]))
-                name = player_name[0:length]
-            print(name, margin, date)
-            if (name != 'Booker D.'):
-                bookmaker_list.append(
-                Bookmaker("MaxBet", float(margin), float("1.85"),
-                          float("1.85"), date, name))
+            underBet = row.find_elements(By.CLASS_NAME, "main-odd")[3].find_element(By.CLASS_NAME, "ng-binding").text
+            overBet = row.find_elements(By.CLASS_NAME, "main-odd")[4].find_element(By.CLASS_NAME, "ng-binding").text
+            print(date, player_name, overBet, underBet, margin)
+            bookmaker_list.append(
+                Bookmaker("MaxBetNBA", float(margin), float(overBet),
+                          float(underBet), date, player_name))
         driver.close()
     except Exception as e:
         print("MAXBET - NBA ERROR")
@@ -160,7 +153,7 @@ def maxBetEL():
             print(time_of_game, name, overBet, underBet, margin)
             bookmaker_list.append(
                 Bookmaker("MaxBet", float(margin), float(overBet),
-                          float(underBet), time_of_game, name))
+                          float(underBet), time_of_game, player_name))
         driver.close()
     except Exception as e:
         print("MAXBET - el ERROR")
@@ -272,7 +265,7 @@ if __name__ == "__main__":
         # time.sleep(10)
         #  AMSportNBA()
         # time.sleep(10)
-        mozzartEL()
+        maxBetEL()
         time.sleep(10)
         json_list = [ob.__dict__ for ob in bookmaker_list]
         producer.send('EcTopic', value=json_list)
