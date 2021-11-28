@@ -180,6 +180,37 @@ def wwin_nba():
             pass
     driver.close()
 
+# not tested
+def wwin_el():
+    try:
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.get('https://wwin.com/sports/#f/0/110/0/')
+        driver.find_element(By.XPATH, "//span[@title='INTERNATIONAL - Euroleague']").click()
+        driver.implicitly_wait(10)
+        time.sleep(1)
+        driver.find_element(By.XPATH, "//span[text()[contains(., 'Number of Points a Player')]]").click()
+        time.sleep(1)
+        driver.implicitly_wait(10)
+        element = driver.find_element(By.ID, "6010112014")
+        rows = element.find_elements(By.TAG_NAME, "tr")
+        print(len(rows))
+        for row in rows:
+            data = row.find_elements(By.TAG_NAME, "td")
+            if len(data) == 3:
+                margin = str(data[0].text).split('(')[1][:-1]
+                player_name = str(data[0].text).split('(')[0][:-1]
+                over_bet = data[1].text
+                under_bet = data[1].text
+                print(player_name, margin,
+                      over_bet, under_bet)
+                bookmaker_list.append(
+                    Bookmaker("WWin", float(margin), float(over_bet),
+                              float(under_bet), "time_of_game", player_name))
+        driver.close()
+    except Exception as e:
+        print("WWin - el ERROR")
+        print(e)
+
 
 def lob():
     try:
@@ -250,10 +281,105 @@ def amsport_nba():
             name = name[0:length - 1]
             print(time, name, margin, underBet, overBet)
             bookmaker_list.append(
-                Bookmaker("AMSport", float(margin), float(underBet),
+                Bookmaker("AMSportNBA", float(margin), float(underBet),
                           float(overBet), time, name))
+        driver.close()
     except Exception as e:
         print("AMSPORT - NBA ERROR")
+        print(e)
+
+
+#not tested
+def amsport_el():
+    try:
+        print("AMSport - Euroleague")
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.get('https://www.amsport.bet/sport')
+        driver.implicitly_wait(10)
+        # element = driver.find_element_by_xpath("//*[text()[contains(., 'Specijal košarka')]]")
+        element = driver.find_element(By.ID, "SportPretraga")
+        logging.info(element)
+        print(element)
+        element.click()
+        element.send_keys("Euroleague Igra")
+        search = driver.find_element(By.CLASS_NAME, "pretraga")
+        img = search.find_element(By.TAG_NAME, "img")
+        img.click()
+        print(element.get_attribute("value"))
+        driver.implicitly_wait(10)
+        element.click()
+        driver.implicitly_wait(15)
+        table = driver.find_element(By.ID, "tabliga_950")
+        rows = table.find_elements(By.TAG_NAME, "tr")
+        del rows[0:5]
+        c = 0
+        print(len(rows))
+        for row in rows:
+            columns = row.find_elements(By.TAG_NAME, "td")
+            time = columns[1].text
+            name = columns[4].text
+            margin = columns[7].text
+            underBet = columns[8].text
+            overBet = columns[9].text
+            length = len((name.split("(")[0]))
+            name = name[0:length - 1]
+            print(time, name, margin, underBet, overBet)
+            bookmaker_list.append(
+                Bookmaker("AMSport", float(margin), float(underBet),
+                          float(overBet), time, name))
+        driver.close()
+    except Exception as e:
+        print("AMSPORT - EUROLEAGUE ERROR")
+        print(e)
+
+
+# not tested
+def meridian_nba():
+    try:
+        print("Meridian - NBA")
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.get('https://meridianbet.ba/sr/kladjenje/ko%C5%A1arka/poeni-igra%C4%8Da/nba')
+        time.sleep(1)
+        rows = driver.find_elements(By.TAG_NAME, 'standard-item-info')
+        print(len(rows))
+        for row in rows:
+            player_name = row.find_element(By.CLASS_NAME, 'away').text
+            game_time = row.find_element(By.CLASS_NAME, 'time').text
+            margin = row.find_elements(By.CLASS_NAME, 'selection')[1].text
+            over_bet = row.find_elements(By.CLASS_NAME, 'selection-odds')[1].text
+            under_bet = row.find_elements(By.CLASS_NAME, 'selection-odds')[0].text
+            print(player_name, game_time, margin, over_bet, under_bet)
+            bookmaker_list.append(
+                Bookmaker("MeridianNBA", float(margin), float(under_bet),
+                          float(over_bet), time, player_name))
+        driver.close()
+    except Exception as e:
+        print("Meridian - NBA ERROR")
+        print(e)
+
+
+# not tested
+def meridian_el():
+    try:
+        print("Meridian - Euroleague")
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.get('https://meridianbet.ba/sr/kladjenje/ko%C5%A1arka/poeni-igra%C4%8Da/euroleague')
+        time.sleep(1)
+        rows = driver.find_elements(By.TAG_NAME, 'standard-item-info')
+        print(len(rows))
+        for row in rows:
+            player_name = row.find_element(By.CLASS_NAME, 'away').text
+            game_time = row.find_element(By.CLASS_NAME, 'time').text
+            margin = row.find_elements(By.CLASS_NAME, 'selection')[1].text
+            over_bet = row.find_elements(By.CLASS_NAME, 'selection-odds')[1].text
+            under_bet = row.find_elements(By.CLASS_NAME, 'selection-odds')[0].text
+            print(player_name, game_time, margin, over_bet, under_bet)
+            bookmaker_list.append(
+                Bookmaker("MeridianNBA", float(margin), float(under_bet),
+                          float(over_bet), time, player_name))
+        driver.close()
+    except Exception as e:
+        print("Meridian - NBA ERROR")
         print(e)
 
 
