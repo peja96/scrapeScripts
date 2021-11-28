@@ -1,28 +1,20 @@
 import time
 
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from dotenv import load_dotenv
-from pathlib import Path
-import os
+from scrape_scripts.init import get_driver
 
-op = webdriver.ChromeOptions()
-op.add_argument('headless')
-dotenv_path = Path('.env')
-load_dotenv(dotenv_path=dotenv_path)
-service = Service(os.environ.get('CHROMEDRIVER'))
-driver = webdriver.Chrome(service=service)
+
+driver = get_driver()
 driver.get('https://wwin.com/sports/#f/0/110/0/')
-driver.find_element(By.XPATH, "//span[@title='USA - NBA']").click()
+driver.find_element(By.XPATH, "//span[@title='INTERNATIONAL - Euroleague']").click()
 driver.implicitly_wait(10)
 time.sleep(1)
 driver.find_element(By.XPATH, "//span[text()[contains(., 'Number of Points a Player')]]").click()
-print()
+time.sleep(1)
 driver.implicitly_wait(10)
-time.sleep(0.1)
-element = driver.find_element(By.ID, "110112014")
+element = driver.find_element(By.ID, "6010112014")
 rows = element.find_elements(By.TAG_NAME, "tr")
+print(len(rows))
 for row in rows:
     try:
         data = row.find_elements(By.TAG_NAME, "td")

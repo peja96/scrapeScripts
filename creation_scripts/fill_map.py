@@ -1,7 +1,7 @@
 
-import_path = 'maps/Sort_WWin.txt'
-map_path = 'maps/Map_WWin.txt'
-export_path = 'maps/Map_WWin.txt'
+import_path = '../maps/Sort_WWin.txt'
+map_path = '../maps/Map_WWin.txt'
+export_path = '../maps/Map_WWin.txt'
 
 with open(import_path) as f:
     lines = f.read().splitlines()
