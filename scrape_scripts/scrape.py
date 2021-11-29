@@ -281,8 +281,8 @@ def amsport_nba():
             name = name[0:length - 1]
             print(time, name, margin, underBet, overBet)
             bookmaker_list.append(
-                Bookmaker("AMSportNBA", float(margin), float(underBet),
-                          float(overBet), time, name))
+                Bookmaker("AMSportNBA", float(margin), float(overBet),
+                          float(underBet), time, name))
         driver.close()
     except Exception as e:
         print("AMSPORT - NBA ERROR")
@@ -325,8 +325,8 @@ def amsport_el():
             name = name[0:length - 1]
             print(time, name, margin, underBet, overBet)
             bookmaker_list.append(
-                Bookmaker("AMSport", float(margin), float(underBet),
-                          float(overBet), time, name))
+                Bookmaker("AMSport", float(margin), float(overBet),
+                          float(underBet), time, name))
         driver.close()
     except Exception as e:
         print("AMSPORT - EUROLEAGUE ERROR")
@@ -350,8 +350,8 @@ def meridian_nba():
             under_bet = row.find_elements(By.CLASS_NAME, 'selection-odds')[0].text
             print(player_name, game_time, margin, over_bet, under_bet)
             bookmaker_list.append(
-                Bookmaker("MeridianNBA", float(margin), float(under_bet),
-                          float(over_bet), time, player_name))
+                Bookmaker("MeridianNBA", float(margin), float(over_bet),
+                          float(under_bet), time, player_name))
         driver.close()
     except Exception as e:
         print("Meridian - NBA ERROR")
@@ -375,8 +375,8 @@ def meridian_el():
             under_bet = row.find_elements(By.CLASS_NAME, 'selection-odds')[0].text
             print(player_name, game_time, margin, over_bet, under_bet)
             bookmaker_list.append(
-                Bookmaker("MeridianNBA", float(margin), float(under_bet),
-                          float(over_bet), time, player_name))
+                Bookmaker("MeridianNBA", float(margin), float(over_bet),
+                          float(under_bet), time, player_name))
         driver.close()
     except Exception as e:
         print("Meridian - NBA ERROR")
