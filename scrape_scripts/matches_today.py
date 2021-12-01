@@ -29,6 +29,11 @@ def matches_today(url, filename):
     driver = get_driver()
     driver.get(url)
     time.sleep(1)
+    try:
+        driver.find_element(By.XPATH, "//*[text()[contains(., 'Danas')]]").click()
+    except:
+        pass
+    time.sleep(1)
     rows = driver.find_elements(By.TAG_NAME, 'standard-item-info')
     matches = []
     for row in rows:
@@ -45,9 +50,10 @@ def matches_today(url, filename):
     new_file.close()
     dir_path = os.path.join(os.getcwd(), '..', 'maps')
     upload_file_to_s3(dir_path, filename, 'playermaps')
-    #driver.close()
+    # driver.close()
 
 
 if __name__ == "__main__":
     matches_today('https://meridianbet.ba/sr/kladjenje/ko%C5%A1arka/sad/nba?leagueIds=77', 'nba_today.txt')
-    matches_today('https://meridianbet.ba/sr/kladjenje/ko%C5%A1arka/evropa/euroleague?leagueIds=208', 'euroleague_today.txt')
+    matches_today('https://meridianbet.ba/sr/kladjenje/ko%C5%A1arka/evropa/euroleague?leagueIds=208',
+                  'euroleague_today.txt')
