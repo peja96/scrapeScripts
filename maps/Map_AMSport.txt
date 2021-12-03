@@ -1,3 +1,4 @@
+Aaron Gordon (DEN):Aaron Gordon
 Adrien Moerman (Anadolu ):Adrien Moerman
 Al Horford (BOS):Al Horford
 Aleksandar Vezenkov (Olympiak):Aleksandar Vezenkov
@@ -9,6 +10,7 @@ Augustine Rubit (Bay):Augustine Rubit
 Billy Baron (Zenit St):Billy Baron
 Bogdan Bogdanovic (ATL):Bogdan Bogdanovic
 Bojan Bogdanovic (UTA):Bojan Bogdanovic
+Bradley Beal (WAS):Bradley Beal
 Brandon Ingram (NOP):Brandon Ingram
 Buddy Hield (SAC):Buddy Hield
 C.J. McCollum (POR):C.J. McCollum
@@ -65,6 +67,7 @@ Jaren Jackson Jr. (MEM):Jaren Jackson Jr.
 Jarrett Allen (CLE):Jarrett Allen
 Jayson Tatum (BOS):Jayson Tatum
 Jerami Grant (DET):Jerami Grant
+Joel Embiid (PHI):Joel Embiid
 John Collins (ATL):John Collins
 Jonas Valanciunas (NOP):Jonas Valanciunas
 Jordan Clarkson (UTA):Jordan Clarkson
@@ -79,10 +82,12 @@ Karl-Anthony Towns (MIN):Karl-Anthony Towns
 Keldon Johnson (SAS):Keldon Johnson
 Kevin Durant (BKN):Kevin Durant
 Kevin Porter Jr. (HOU):Kevin Porter Jr.
+Khris Middleton (MIL):Khris Middleton
 Kostas Sloukas (Olympiak):Kostas Sloukas
 Krunoslav Simon (Anadolu ):Krunoslav Simon
 Kyle Kuzma (WAS):Kyle Kuzma
 LaMelo Ball (CHA):LaMelo Ball
+Lauri Markkanen (CLE):Lauri Markkanen
 Lorenzo Brown (Uni):Lorenzo Brown
 Luguentz Dort (OKC):Luguentz Dort
 Luigi Datome (Fenerbah):Luigi Datome
@@ -132,8 +137,10 @@ Terry Rozier (CHA):Terry Rozier
 Thomas Heurtel (Real Mad):Thomas Heurtel
 Tibor Pleiss (Anadolu ):Tibor Pleiss
 Tobias Harris (PHI):Tobias Harris
+Trae Young (ATL):Trae Young
 Tyler Cavanaugh (Zalgiris):Tyler Cavanaugh
 Tyler Dorsey (Olympiak):Tyler Dorsey
+Tyrese Maxey (PHI):Tyrese Maxey
 Vasilije Micic (Anadolu ):Vasilije Micic
 Vladimir Lucic (Bay):Vladimir Lucic
 Walter Tavares (Real Mad):Walter Tavares

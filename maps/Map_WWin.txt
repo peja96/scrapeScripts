@@ -13,6 +13,7 @@ Anadolu Efes/Micic, Vasilije:Vasilije Micic
 Anadolu Efes/Moerman, Adrien Rene:Adrien Rene Moerman
 Anadolu Efes/Simon, Krunoslav:Krunoslav Simon
 Atlanta/Bogdanovic, Bogdan:Bogdan Bogdanovic
+Atlanta/Capela, Clint|WWinNBA:Clint Capela
 Atlanta/Collins, John:John Collins
 Atlanta/Young, Trae:Trae Young
 BC Olympiakos Piraeus/Dorsey, Tyler:Tyler Dorsey
@@ -93,14 +94,18 @@ Maccabi Tel-Aviv/Wilbekin, Scott:Scott Wilbekin
 Maccabi Tel-Aviv/Williams, Derrick:Derrick Williams
 Maccabi Tel-Aviv/Zizic, Ante:Ante Zizic
 Memphis/Bane, Desmond:Desmond Bane
+Memphis/Brooks, Dillon:Dillon Brooks
 Memphis/Jackson Jr., Jaren:Jaren Jackson Jr.
 Memphis/Morant, Ja:Ja Morant
+Miami Heat/Herro, Tyler|WWinNBA:Tyler Herro
+Miami Heat/Lowry, Kyle|WWinNBA:Kyle Lowry
 Milano/Datome, Luigi:Luigi Datome
 Milano/Hall, Devon:Devon Hall
 Milano/Melli, Nicolo:Nicolo Melli
 Milano/Shields, Shavon:Shavon Shields
 Milwaukee Bucks/Antetokounmpo, Giannis:Giannis Antetokounmpo
 Milwaukee Bucks/Holiday, Jrue:Jrue Holiday
+Milwaukee Bucks/Middleton, Khris:Khris Middleton
 Milwaukee Bucks/Portis, Bobby:Bobby Portis
 Minnesota Timberwolves/Edwards, Anthony:Anthony Edwards
 Minnesota Timberwolves/Russell, D`Angelo:D`Angelo Russell
@@ -123,6 +128,7 @@ Panathinaikos BC/Macon, Daryl:Daryl Macon
 Panathinaikos BC/Papagiannis, Georgios:Georgios Papagiannis
 Panathinaikos BC/Papapetrou, Ioannis:Ioannis Papapetrou
 Philadelphia/Curry, Seth:Seth Curry
+Philadelphia/Embiid, Joel|WWinNBA:Joel Embiid
 Philadelphia/Harris, Tobias:Tobias Harris
 Philadelphia/Maxey, Tyrese:Tyrese Maxey
 Phoenix/Booker, Devin:Devin Booker
@@ -138,6 +144,7 @@ Real Madrid/Tavares, Walter:Walter Tavares
 Real Madrid/Yabusele, Guerschon:Guerschon Yabusele
 Sacramento Kings/Barnes, Harrison:Harrison Barnes
 Sacramento Kings/Fox, De'Aaron:De'Aaron Fox
+Sacramento Kings/Haliburton, Tyrese:Tyrese Haliburton
 Sacramento Kings/Hield, Buddy:Buddy Hield
 San Antonio/Derrick White:Derrick White
 San Antonio/Johnson, Keldon:Keldon Johnson

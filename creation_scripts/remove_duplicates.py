@@ -1,20 +1,23 @@
-import os.path
-from os import listdir
-from os.path import isfile, join
 
-path = '../maps/Meridian.txt'
 
-with open(path) as f:
-    lines = f.read().splitlines()
-    players = []
-    for line in lines:
-        if line not in players and line != '':
-            players.append(line)
-    players.sort()
+def remove_duplicates(file_name, dest_name):
+    path = '../maps/' + file_name
 
-new_path = '../maps/Sort_Meridian.txt'
-new_file = open(new_path, 'w')
-for player in players:
-    new_file.write(player + '\n')
+    with open(path) as f:
+        lines = f.read().splitlines()
+        players = []
+        for line in lines:
+            if line not in players and line != '':
+                players.append(line)
+        players.sort()
 
-new_file.close()
+    new_path = '../maps/' +dest_name
+    new_file = open(new_path, 'w')
+    for player in players:
+        new_file.write(player + '\n')
+
+    new_file.close()
+
+
+if __name__ == "__main__":
+    remove_duplicates('Map_WWin.txt', 'Map_WWin.txt')

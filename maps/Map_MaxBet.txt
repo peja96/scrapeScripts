@@ -25,6 +25,7 @@ Bazley D. - Oklahoma:Darius Bazley
 Beaubois R. - Anadolu Efes:Rodrigue Beaubois
 Bey S. - Detroit:Saddiq Bey
 Bledsoe E. - L.A. Clippers:Eric Bledsoe
+Bledsoe E. - LA Clippers:Eric Bledsoe
 Bogdanovic B. - Utah:Bojan Bogdanovic
 Bogdanovic Bogdan - Atlanta:Bogdan Bogdanovic
 Bogdanovic Bojan - Utah:Bojan Bogdanovic
@@ -82,6 +83,7 @@ Fournier E. - New York:Evan Fournier
 Fox D. - Sacramento:De'Aaron Fox
 Garland D. - Cleveland:Darius Garland
 George P. - L.A. Clippers:Paul George
+George P. - LA Clippers:Paul George
 Giddey J. - Oklahoma:Josh Giddey
 Giedraitis R. - Baskonia:Rokas Giedraitis
 Giffey N. - Zalgiris:Niels Giffey
@@ -127,6 +129,7 @@ Ingram B. - New Orleans:Brandon Ingram
 Ivanovic N. - Crvena zvezda:Nikola Ivanovic
 Jackson Jaren - Memphis:Jaren Jackson Jr.
 Jackson R. - L.A. Clippers:Reggie Jackson
+Jackson R. - LA Clippers:Reggie Jackson
 James M. - Monaco:Mike James
 Jekiri T. - Unics Kazan:Tonye Jekiri
 Jekiri T.F. - Unics Kazan:Tonye Jekiri
@@ -162,6 +165,7 @@ Melli N. - Olimpia Milano:Nicolo Melli
 Melton D. - Memphis:De'Anthony Melton
 Micic V. - Anadolu Efes:Vasilije Micic
 Mickey J. - Zenit Peters.:Jordan Mickey
+Middleton K. - Milwaukee:Khris Middleton
 Milaknis A. - Zalgiris:Arturas Milaknis
 Mills P. - Brooklyn:Patty Mills
 Mirotic N. - Barcelona:Nikola Mirotic
@@ -170,6 +174,7 @@ Mitoglou K. - Olimpia Milano:Konstantinos Mitoglou
 Mobley E. - Cleveland:Evan Mobley
 Moerman A. - Anadolu Efes:Adrien Moerman
 Morant J. - Memphis:Ja Morant
+Morris Marcus - LA Clippers:Marcus Morris Sr.
 Morris Monte - Denver:Monte Morris
 Motiejunas D. - Monaco:Donatas Motiejunas
 Murray D. - San Antonio:Dejounte Murray
@@ -193,6 +198,7 @@ Polonara A. - Fenerbahce:Achille Polonara
 Ponitka M. - Zenit Peters.:Mateusz Ponitka
 Poole J. - Golden State:Jordan Poole
 Porter Jr. K. - Houston:Kevin Porter Jr.
+Portis B. - Milwaukee:Bobby Portis
 Porzingis K. - Dallas:Kristaps Porzingis
 Powell D. - Dallas:Dwight Powell
 Powell N. - Portland:Norman Powell
@@ -213,6 +219,7 @@ Sedekerskis T. - Baskonia:Tadas Sedekerskis
 Shengelia T. - CSKA Moscow:Tornike Shengelia
 Shields S. - Olimpia Milano:Shavon Shields
 Shved A. - CSKA Moscow:Alexey Shved
+Siakam P. - Toronto:Pascal Siakam
 Sikma L. - Alba Berlin:Luke Sikma
 Simon K. - Anadolu Efes:Krunoslav Simon
 Sloukas K. - Olympiacos:Kostas Sloukas
@@ -257,3 +264,4 @@ Zizic A. - Maccabi T.A.:Ante Zizic
 Zizic A. - Maccabi Tel Aviv:Ante Zizic
 Zoosman Y. - Alba Berlin:Yovel Zoosman
 Zubac I. - L.A. Clippers:Ivica Zubac
+Zubac I. - LA Clippers:Ivica Zubac

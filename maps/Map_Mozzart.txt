@@ -18,6 +18,7 @@ B.Davies:Brandon Davies
 B.Hield:Buddy Hield
 B.Ingram:Brandon Ingram
 B.Lammers:Ben Lammers
+B.Portis:Bobby Portis
 Bog.Bogdanovic:Bogdan Bogdanovic
 Boj.Bogdanovic:Bojan Bogdanovic
 C.Anthony:Cole Anthony
@@ -54,6 +55,7 @@ D.Motiejunas:Donatas Motiejunas
 D.Murray:Dejounte Murray
 D.Pierre:Dyshawn Pierre
 D.Powell:Dwight Powell
+D.Robinson|MozzartNBA:Duncan Robinson
 D.Russell:D'Angelo Russell
 D.Sabonis:Domantas Sabonis
 D.Schroder:Dennis Schroder
@@ -76,6 +78,7 @@ G.Allen:Grayson Allen
 G.Antetokounmpo:Giannis Antetokounmpo
 G.Hayward:Gordon Hayward
 G.Lundberg:Iffe Lundberg
+G.Mathews|MozzartNBA:Garrison Mathews
 G.Papagiannis:Georgios Papagiannis
 G.Trent:Gary Trent Jr.
 G.Yabusele:Guerschon Yabusele
@@ -109,6 +112,7 @@ J.Randle:Julius Randle
 J.Reynolds:Jalen Reynolds
 J.Strelnieks:Janis Strelnieks
 J.Suggs:Jalen Suggs
+J.Tate|MozzartNBA:Jae'Sean Tate
 J.Tatum:Jayson Tatum
 J.Valanciunas:Jonas Valanciunas
 J.Vesely:Jan Vesely
@@ -119,6 +123,8 @@ K.Hines:Kyle Hines
 K.Johnson:Keldon Johnson
 K.Kuric:Kyle Kuric
 K.Kuzma:Kyle Kuzma
+K.Lowry|MozzartNBA:Kyle Lowry
+K.Middleton:Khris Middleton
 K.Mitoglou:Konstantinos Mitoglou
 K.Papanikolaou:Kostas Papanikolaou
 K.Perry:Kendrick Perry
@@ -128,11 +134,13 @@ K.Simon:Krunoslav Simon
 K.Sloukas:Kostas Sloukas
 K.Towns:Karl-Anthony Towns
 K.Walker:Kemba Walker
+L.Aldridge|MozzartNBA:LaMarcus Aldridge
 L.Brown:Lorenzo Brown
 L.Datome:Luigi Datome
 L.Doncic:Luka Doncic
 L.Dort:Luguentz Dort
 L.Lekavicius:Lukas Lekavicius
+L.Markkanen|MozzartNBA:Lauri Markkanen
 L.Nnoko:Landry Nnoko
 L.Sikma:Luke Sikma
 La.Ball:LaMelo Ball
@@ -178,6 +186,8 @@ O.White:Okaro White
 O.da Silva:Oscar Da Silva
 P.George:Paul George
 P.Henry:Pierria Henry
+P.Mills|MozzartNBA:Patty Mills
+P.Siakam:Pascal Siakam
 R.Barret:RJ Barrett
 R.Barrett:RJ Barrett
 R.Beaubois:Rodrigue Beaubois
@@ -205,6 +215,7 @@ T.Cavanaugh:Tyler Cavanaugh
 T.Dorsey:Tyler Dorsey
 T.F.Jekiri:Tonye Jekiri
 T.Hardaway:Tim Hardaway Jr.
+T.Harris|MozzartNBA:Tobias Harris
 T.Herro:Tyler Herro
 T.Heurtel:Thomas Heurtel
 T.Maxey:Tyrese Maxey
