@@ -13,6 +13,7 @@ chrome_options.add_experimental_option('w3c', True)
 service = Service("C:\\Users\\RadeToprek\\Documents\\chromedriver_win32\\chromedriver.exe")
 driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.get('https://www.mozzartbet.ba/bs/kladjenje-2018#/?sid=2')
+time.sleep(1)
 driver.find_element(By.XPATH, "//*[text()[contains(., 'NBA  -  IGRAČI')]]").click()
 time.sleep(1)
 table = driver.find_elements(By.CLASS_NAME, "competition")[0]

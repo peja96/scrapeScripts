@@ -20,7 +20,7 @@ service = Service("C:\\Users\\RadeToprek\\Documents\\chromedriver_win32\\chromed
 logging.basicConfig(filename="error.log", level=logging.ERROR, format='%(asctime)s %(levelname)s %(name)s %(message)s')
 logger = logging.getLogger(__name__)
 bookmaker_list = []
-producer = KafkaProducer(bootstrap_servers=['ec2-3-139-95-34.us-east-2.compute.amazonaws.com:9092'],
+producer = KafkaProducer(bootstrap_servers=['ec2-18-219-29-16.us-east-2.compute.amazonaws.com:9092'],
                          value_serializer=lambda v: json.dumps(v).encode('utf-8'))
 
 
@@ -156,29 +156,72 @@ def maxBetEL():
                           float(underBet), time_of_game, player_name))
         driver.close()
     except Exception as e:
-        print("MAXBET - el ERROR")
+        print("MAXBET - EL ERROR")
 
 
 def wwinNBA():
-    driver = webdriver.Chrome(service=service, options=chrome_options)
-    driver.get('https://wwin.com/sports/#f/0/110/0/')
-    driver.find_element(By.ID, "ContentBody_ctl01_ucOffer_ucMenu_ctl27_favTop").click()
-    driver.implicitly_wait(10)
-    driver.find_elements(By.ID, "market_110_19").click()
-    print()
-    driver.implicitly_wait(10)
-    time.sleep(0.1)
-    element = driver.find_element(By.ID, "110112014")
-    rows = element.find_elements(By.TAG_NAME, "tr")
-    for row in rows:
-        try:
+    try:
+        print("WWIN - NBA")
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.get('https://wwin.com/sports/#f/0/110/0/')
+        driver.find_element(By.XPATH, "//span[@title='USA - NBA']").click()
+        driver.implicitly_wait(10)
+        time.sleep(1)
+        driver.find_element(By.XPATH, "//span[text()[contains(., 'Number of Points a Player')]]").click()
+        driver.implicitly_wait(10)
+        time.sleep(0.1)
+        element = driver.find_element(By.ID, "110112014")
+        rows = element.find_elements(By.TAG_NAME, "tr")
+        for row in rows:
             data = row.find_elements(By.TAG_NAME, "td")
             if len(data) == 3:
-                for field in data:
-                    print(field.text)
-        except:
-            pass
-    driver.close()
+                name = str(data[0].text).split('(')[0][:-1]
+                margin = str(data[0].text).split('(')[1][:-1]
+                overBet = data[1].text
+                overBet = overBet.replace(",", ".")
+                underBet = data[2].text
+                underBet = underBet.replace(",", ".")
+                time_of_game = '24.11. 19.00'
+                print(name, margin, overBet, underBet)
+                bookmaker_list.append(
+                    Bookmaker("WWinNBA", float(margin), float(overBet),
+                              float(underBet), time_of_game, name))
+        driver.close()
+    except:
+        print("WWIN - NBA ERROR")
+
+
+def wwinEL():
+    try:
+        print("WWIN - EL")
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.get('https://wwin.com/sports/#f/0/110/0/')
+        driver.find_element(By.XPATH, "//span[@title='INTERNATIONAL - Euroleague']").click()
+        driver.implicitly_wait(10)
+        time.sleep(1)
+        driver.find_element(By.XPATH, "//span[text()[contains(., 'Number of Points a Player')]]").click()
+        time.sleep(1)
+        driver.implicitly_wait(10)
+        element = driver.find_element(By.ID, "6010112014")
+        rows = element.find_elements(By.TAG_NAME, "tr")
+        print(len(rows))
+        for row in rows:
+            data = row.find_elements(By.TAG_NAME, "td")
+            if len(data) == 3:
+                name = str(data[0].text).split('(')[0][:-1]
+                margin = str(data[0].text).split('(')[1][:-1]
+                overBet = data[1].text
+                overBet = overBet.replace(",", ".")
+                underBet = data[2].text
+                underBet = underBet.replace(",", ".")
+                time_of_game = '24.11. 19.00'
+                print(name, margin, overBet, underBet)
+                bookmaker_list.append(
+                    Bookmaker("WWin", float(margin), float(overBet),
+                              float(underBet), time_of_game, name))
+        driver.close()
+    except:
+        print("WWIN - EL ERROR")
 
 
 def lob():
@@ -246,29 +289,66 @@ def AMSportNBA():
             margin = columns[7].text
             underBet = columns[8].text
             overBet = columns[9].text
-            length = len((name.split("(")[0]))
-            name = name[0:length - 1]
             print(time, name, margin, underBet, overBet)
+            bookmaker_list.append(
+                Bookmaker("AMSportNBA", float(margin), float(underBet),
+                          float(overBet), time, name))
+            driver.close()
+    except Exception as e:
+        print("AMSPORT - NBA ERROR")
+        print(e)
+
+def AMSportEl():
+    try:
+        print("AMSport - EL")
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        driver.get('https://www.amsport.bet/sport')
+        driver.implicitly_wait(10)
+        element = driver.find_element(By.ID, "SportPretraga")
+        element.click()
+        element.send_keys("Euroleague Igra")
+        search = driver.find_element(By.CLASS_NAME, "pretraga")
+        img = search.find_element(By.TAG_NAME, "img")
+        img.click()
+        print(element.get_attribute("value"))
+        driver.implicitly_wait(10)
+        element.click()
+        driver.implicitly_wait(15)
+        table = driver.find_element(By.ID, "tabliga_950")
+        rows = table.find_elements(By.TAG_NAME, "tr")
+        del rows[0:5]
+        c = 0
+        print(len(rows))
+        for row in rows:
+            columns = row.find_elements(By.TAG_NAME, "td")
+            time = columns[1].text
+            name = columns[4].text
+            margin = columns[7].text
+            underBet = columns[8].text
+            overBet = columns[9].text
+            print(name, time, margin, underBet, overBet)
             bookmaker_list.append(
                 Bookmaker("AMSport", float(margin), float(underBet),
                           float(overBet), time, name))
+            driver.close()
     except Exception as e:
-        print("AMSPORT - NBA ERROR")
+        print("AMSPORT - EL ERROR")
         print(e)
 
 
 if __name__ == "__main__":
     while True:
-        # mozzartNba()
-        # time.sleep(10)
-        # maxMetNBA()
-        # time.sleep(10)
-        #  AMSportNBA()
-        # time.sleep(10)
-        maxBetEL()
+        wwinNBA()
         time.sleep(10)
         json_list = [ob.__dict__ for ob in bookmaker_list]
-        producer.send('EcTopic', value=json_list)
+        producer.send('PlayersTopic', value=json_list)
+        print(json_list)
+        bookmaker_list.clear()
+        json_list.clear()
+        AMSportNBA()
+        time.sleep(10)
+        json_list = [ob.__dict__ for ob in bookmaker_list]
+        producer.send('PlayersTopic', value=json_list)
         print(json_list)
         bookmaker_list.clear()
         json_list.clear()

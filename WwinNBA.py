@@ -4,10 +4,14 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-op = webdriver.ChromeOptions()
-op.add_argument('headless')
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
-driver = webdriver.Chrome(service=service)
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-gpu')
+chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_experimental_option('w3c', True)
+service = Service("C:\\Users\\RadeToprek\\Documents\\chromedriver_win32\\chromedriver.exe")
+driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.get('https://wwin.com/sports/#f/0/110/0/')
 driver.find_element(By.XPATH, "//span[@title='USA - NBA']").click()
 driver.implicitly_wait(10)

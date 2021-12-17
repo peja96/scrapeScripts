@@ -3,10 +3,14 @@ from selenium.webdriver.chrome.service import Service
 
 from selenium.webdriver.common.by import By
 
-op = webdriver.ChromeOptions()
-op.add_argument('headless')
-service = Service("C:\\Users\\Nikola\\Desktop\\SpringScrape\\scrape\\chromedriver.exe")
-driver = webdriver.Chrome(service=service)
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-gpu')
+chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_experimental_option('w3c', True)
+service = Service("C:\\Users\\RadeToprek\\Documents\\chromedriver_win32\\chromedriver.exe")
+driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.get('https://www.amsport.bet/sport')
 driver.implicitly_wait(10)
 element = driver.find_element(By.ID, "SportPretraga")
@@ -31,4 +35,4 @@ for row in rows:
     margin = columns[7].text
     underBet = columns[8].text
     overBet = columns[9].text
-    print(name)
+    print(name, time, margin, underBet, overBet)
